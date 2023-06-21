@@ -27,6 +27,7 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [Running Argo CD Locally with Kind and Nginx Ingress](https://medium.com/@chirayukapoor/running-argo-cd-locally-with-kind-and-nginx-ingress-26b31cece300?source=rss-291461f4fe0a------2)
 - [Jumpstarting Your Open-Source Journey: A Beginner’s Guide to Contributing!](https://medium.com/@chirayukapoor/jumpstarting-your-open-source-journey-a-beginners-guide-to-contributing-18321b6bf336?source=rss-291461f4fe0a------2)
 <!-- BLOG-POST-LIST:END -->
 

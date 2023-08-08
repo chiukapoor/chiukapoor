@@ -31,6 +31,6 @@
 - [Jumpstarting Your Open-Source Journey: A Beginner’s Guide to Contributing!](https://medium.com/@chirayukapoor/jumpstarting-your-open-source-journey-a-beginners-guide-to-contributing-18321b6bf336?source=rss-291461f4fe0a------2)
 <!-- BLOG-POST-LIST:END -->
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=chiukapoor&show_icons=true&locale=en" alt="chiukapoor" /></p>
+<!-- <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=chiukapoor&show_icons=true&locale=en" alt="chiukapoor" /></p> -->
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=chiukapoor&label=Profile%20views&color=0e75b6&style=flat" alt="chiukapoor" /> </p>

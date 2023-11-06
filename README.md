@@ -14,11 +14,11 @@
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. ❌ Closed PR [#43048](https://github.com/rancher/rancher/pull/43048) in [rancher/rancher](https://github.com/rancher/rancher)
-2. 🗣 Commented on [#6046](https://github.com/prometheus-operator/prometheus-operator/issues/6046#issuecomment-1784894173) in [prometheus-operator/prometheus-operator](https://github.com/prometheus-operator/prometheus-operator)
-3. 🗣 Commented on [#43048](https://github.com/rancher/rancher/pull/43048#issuecomment-1784700691) in [rancher/rancher](https://github.com/rancher/rancher)
-4. ❗ Opened issue [#6046](https://github.com/prometheus-operator/prometheus-operator/issues/6046) in [prometheus-operator/prometheus-operator](https://github.com/prometheus-operator/prometheus-operator)
-5. 🗣 Commented on [#9589](https://github.com/kubernetes-sigs/cluster-api/issues/9589#issuecomment-1780751338) in [kubernetes-sigs/cluster-api](https://github.com/kubernetes-sigs/cluster-api)
+1. 🗣 Commented on [#43362](https://github.com/rancher/rancher/issues/43362#issuecomment-1794693864) in [rancher/rancher](https://github.com/rancher/rancher)
+2. 🗣 Commented on [#43362](https://github.com/rancher/rancher/issues/43362#issuecomment-1794669846) in [rancher/rancher](https://github.com/rancher/rancher)
+3. ❌ Closed PR [#43048](https://github.com/rancher/rancher/pull/43048) in [rancher/rancher](https://github.com/rancher/rancher)
+4. 🗣 Commented on [#6046](https://github.com/prometheus-operator/prometheus-operator/issues/6046#issuecomment-1784894173) in [prometheus-operator/prometheus-operator](https://github.com/prometheus-operator/prometheus-operator)
+5. 🗣 Commented on [#43048](https://github.com/rancher/rancher/pull/43048#issuecomment-1784700691) in [rancher/rancher](https://github.com/rancher/rancher)
 <!--END_SECTION:activity-->
 
 ### :book: Blogs posts

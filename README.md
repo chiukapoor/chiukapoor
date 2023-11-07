@@ -14,11 +14,11 @@
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#43362](https://github.com/rancher/rancher/issues/43362#issuecomment-1794693864) in [rancher/rancher](https://github.com/rancher/rancher)
-2. 🗣 Commented on [#43362](https://github.com/rancher/rancher/issues/43362#issuecomment-1794669846) in [rancher/rancher](https://github.com/rancher/rancher)
-3. ❌ Closed PR [#43048](https://github.com/rancher/rancher/pull/43048) in [rancher/rancher](https://github.com/rancher/rancher)
-4. 🗣 Commented on [#6046](https://github.com/prometheus-operator/prometheus-operator/issues/6046#issuecomment-1784894173) in [prometheus-operator/prometheus-operator](https://github.com/prometheus-operator/prometheus-operator)
-5. 🗣 Commented on [#43048](https://github.com/rancher/rancher/pull/43048#issuecomment-1784700691) in [rancher/rancher](https://github.com/rancher/rancher)
+1. 💪 Opened PR [#123](https://github.com/rancher/install-docker/pull/123) in [rancher/install-docker](https://github.com/rancher/install-docker)
+2. 🗣 Commented on [#43362](https://github.com/rancher/rancher/issues/43362#issuecomment-1794693864) in [rancher/rancher](https://github.com/rancher/rancher)
+3. 🗣 Commented on [#43362](https://github.com/rancher/rancher/issues/43362#issuecomment-1794669846) in [rancher/rancher](https://github.com/rancher/rancher)
+4. ❌ Closed PR [#43048](https://github.com/rancher/rancher/pull/43048) in [rancher/rancher](https://github.com/rancher/rancher)
+5. 🗣 Commented on [#6046](https://github.com/prometheus-operator/prometheus-operator/issues/6046#issuecomment-1784894173) in [prometheus-operator/prometheus-operator](https://github.com/prometheus-operator/prometheus-operator)
 <!--END_SECTION:activity-->
 
 ### :book: Blogs posts

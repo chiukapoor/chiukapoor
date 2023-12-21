@@ -14,11 +14,11 @@
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#20](https://github.com/rancher/hyperkube-base/pull/20#issuecomment-1864230837) in [rancher/hyperkube-base](https://github.com/rancher/hyperkube-base)
-2. 🗣 Commented on [#20](https://github.com/rancher/hyperkube-base/pull/20#issuecomment-1864143737) in [rancher/hyperkube-base](https://github.com/rancher/hyperkube-base)
-3. 💪 Opened PR [#3277](https://github.com/rancher/charts/pull/3277) in [rancher/charts](https://github.com/rancher/charts)
-4. 🗣 Commented on [#3188](https://github.com/rancher/charts/pull/3188#issuecomment-1862208193) in [rancher/charts](https://github.com/rancher/charts)
-5. 🎉 Merged PR [#3188](https://github.com/rancher/charts/pull/3188) in [rancher/charts](https://github.com/rancher/charts)
+1. 💪 Opened PR [#7](https://github.com/rancher/client-go/pull/7) in [rancher/client-go](https://github.com/rancher/client-go)
+2. 🗣 Commented on [#20](https://github.com/rancher/hyperkube-base/pull/20#issuecomment-1864230837) in [rancher/hyperkube-base](https://github.com/rancher/hyperkube-base)
+3. 🗣 Commented on [#20](https://github.com/rancher/hyperkube-base/pull/20#issuecomment-1864143737) in [rancher/hyperkube-base](https://github.com/rancher/hyperkube-base)
+4. 💪 Opened PR [#3277](https://github.com/rancher/charts/pull/3277) in [rancher/charts](https://github.com/rancher/charts)
+5. 🗣 Commented on [#3188](https://github.com/rancher/charts/pull/3188#issuecomment-1862208193) in [rancher/charts](https://github.com/rancher/charts)
 <!--END_SECTION:activity-->
 
 ### :book: Blogs posts

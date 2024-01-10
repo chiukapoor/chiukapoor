@@ -14,11 +14,11 @@
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#43652](https://github.com/rancher/rancher/pull/43652#issuecomment-1880835456) in [rancher/rancher](https://github.com/rancher/rancher)
-2. 🗣 Commented on [#3277](https://github.com/rancher/charts/pull/3277#issuecomment-1880520792) in [rancher/charts](https://github.com/rancher/charts)
-3. 🗣 Commented on [#3277](https://github.com/rancher/charts/pull/3277#issuecomment-1877060734) in [rancher/charts](https://github.com/rancher/charts)
-4. 💪 Opened PR [#340](https://github.com/rancher/hyperkube/pull/340) in [rancher/hyperkube](https://github.com/rancher/hyperkube)
-5. 💪 Opened PR [#120](https://github.com/rancher/kubernetes/pull/120) in [rancher/kubernetes](https://github.com/rancher/kubernetes)
+1. 🚀 Published release [v1.28-rancher1-1](https://github.com/chiukapoor/rke/releases/tag/v1.28-rancher1-1) in [chiukapoor/rke](https://github.com/chiukapoor/rke)
+2. 🗣 Commented on [#43652](https://github.com/rancher/rancher/pull/43652#issuecomment-1880835456) in [rancher/rancher](https://github.com/rancher/rancher)
+3. 🗣 Commented on [#3277](https://github.com/rancher/charts/pull/3277#issuecomment-1880520792) in [rancher/charts](https://github.com/rancher/charts)
+4. 🗣 Commented on [#3277](https://github.com/rancher/charts/pull/3277#issuecomment-1877060734) in [rancher/charts](https://github.com/rancher/charts)
+5. 💪 Opened PR [#340](https://github.com/rancher/hyperkube/pull/340) in [rancher/hyperkube](https://github.com/rancher/hyperkube)
 <!--END_SECTION:activity-->
 
 ### :book: Blogs posts

@@ -14,11 +14,11 @@
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#124](https://github.com/rancher/kubernetes/pull/124) in [rancher/kubernetes](https://github.com/rancher/kubernetes)
-2. ❌ Closed PR [#120](https://github.com/rancher/kubernetes/pull/120) in [rancher/kubernetes](https://github.com/rancher/kubernetes)
-3. ❌ Reopened PR [#120](https://github.com/rancher/kubernetes/pull/120) in [rancher/kubernetes](https://github.com/rancher/kubernetes)
+1. 💪 Opened PR [#296](https://github.com/rancher/gke-operator/pull/296) in [rancher/gke-operator](https://github.com/rancher/gke-operator)
+2. 💪 Opened PR [#368](https://github.com/rancher/aks-operator/pull/368) in [rancher/aks-operator](https://github.com/rancher/aks-operator)
+3. 💪 Opened PR [#124](https://github.com/rancher/kubernetes/pull/124) in [rancher/kubernetes](https://github.com/rancher/kubernetes)
 4. ❌ Closed PR [#120](https://github.com/rancher/kubernetes/pull/120) in [rancher/kubernetes](https://github.com/rancher/kubernetes)
-5. 🗣 Commented on [#43652](https://github.com/rancher/rancher/pull/43652#issuecomment-1896073637) in [rancher/rancher](https://github.com/rancher/rancher)
+5. ❌ Reopened PR [#120](https://github.com/rancher/kubernetes/pull/120) in [rancher/kubernetes](https://github.com/rancher/kubernetes)
 <!--END_SECTION:activity-->
 
 ### :book: Blogs posts

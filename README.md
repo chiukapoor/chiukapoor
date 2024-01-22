@@ -14,11 +14,11 @@
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#44027](https://github.com/rancher/rancher/pull/44027#issuecomment-1903831384) in [rancher/rancher](https://github.com/rancher/rancher)
-2. ❌ Closed PR [#44027](https://github.com/rancher/rancher/pull/44027) in [rancher/rancher](https://github.com/rancher/rancher)
-3. 💪 Opened PR [#296](https://github.com/rancher/gke-operator/pull/296) in [rancher/gke-operator](https://github.com/rancher/gke-operator)
-4. 💪 Opened PR [#368](https://github.com/rancher/aks-operator/pull/368) in [rancher/aks-operator](https://github.com/rancher/aks-operator)
-5. 💪 Opened PR [#124](https://github.com/rancher/kubernetes/pull/124) in [rancher/kubernetes](https://github.com/rancher/kubernetes)
+1. 💪 Opened PR [#332](https://github.com/rancher/eks-operator/pull/332) in [rancher/eks-operator](https://github.com/rancher/eks-operator)
+2. 🗣 Commented on [#44027](https://github.com/rancher/rancher/pull/44027#issuecomment-1903831384) in [rancher/rancher](https://github.com/rancher/rancher)
+3. ❌ Closed PR [#44027](https://github.com/rancher/rancher/pull/44027) in [rancher/rancher](https://github.com/rancher/rancher)
+4. 💪 Opened PR [#296](https://github.com/rancher/gke-operator/pull/296) in [rancher/gke-operator](https://github.com/rancher/gke-operator)
+5. 💪 Opened PR [#368](https://github.com/rancher/aks-operator/pull/368) in [rancher/aks-operator](https://github.com/rancher/aks-operator)
 <!--END_SECTION:activity-->
 
 ### :book: Blogs posts

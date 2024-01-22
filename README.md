@@ -14,11 +14,11 @@
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#43652](https://github.com/rancher/rancher/pull/43652#issuecomment-1896073637) in [rancher/rancher](https://github.com/rancher/rancher)
-2. 💪 Opened PR [#44027](https://github.com/rancher/rancher/pull/44027) in [rancher/rancher](https://github.com/rancher/rancher)
-3. 💪 Opened PR [#1293](https://github.com/rancher/kontainer-driver-metadata/pull/1293) in [rancher/kontainer-driver-metadata](https://github.com/rancher/kontainer-driver-metadata)
-4. 💪 Opened PR [#3472](https://github.com/rancher/rke/pull/3472) in [rancher/rke](https://github.com/rancher/rke)
-5. 🚀 Published release [v1.28-rancher1-1](https://github.com/chiukapoor/rke/releases/tag/v1.28-rancher1-1) in [chiukapoor/rke](https://github.com/chiukapoor/rke)
+1. ❌ Closed PR [#120](https://github.com/rancher/kubernetes/pull/120) in [rancher/kubernetes](https://github.com/rancher/kubernetes)
+2. ❌ Reopened PR [#120](https://github.com/rancher/kubernetes/pull/120) in [rancher/kubernetes](https://github.com/rancher/kubernetes)
+3. ❌ Closed PR [#120](https://github.com/rancher/kubernetes/pull/120) in [rancher/kubernetes](https://github.com/rancher/kubernetes)
+4. 🗣 Commented on [#43652](https://github.com/rancher/rancher/pull/43652#issuecomment-1896073637) in [rancher/rancher](https://github.com/rancher/rancher)
+5. 💪 Opened PR [#44027](https://github.com/rancher/rancher/pull/44027) in [rancher/rancher](https://github.com/rancher/rancher)
 <!--END_SECTION:activity-->
 
 ### :book: Blogs posts

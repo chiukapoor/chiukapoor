@@ -14,11 +14,11 @@
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#3367](https://github.com/rancher/charts/pull/3367) in [rancher/charts](https://github.com/rancher/charts)
-2. 💪 Opened PR [#3](https://github.com/rancher/provisioning/pull/3) in [rancher/provisioning](https://github.com/rancher/provisioning)
-3. 💪 Opened PR [#563](https://github.com/rancher/image-mirror/pull/563) in [rancher/image-mirror](https://github.com/rancher/image-mirror)
-4. 💪 Opened PR [#9](https://github.com/rancher/calico-cni/pull/9) in [rancher/calico-cni](https://github.com/rancher/calico-cni)
-5. 💪 Opened PR [#332](https://github.com/rancher/eks-operator/pull/332) in [rancher/eks-operator](https://github.com/rancher/eks-operator)
+1. 💪 Opened PR [#58](https://github.com/rancher/lasso/pull/58) in [rancher/lasso](https://github.com/rancher/lasso)
+2. 💪 Opened PR [#3367](https://github.com/rancher/charts/pull/3367) in [rancher/charts](https://github.com/rancher/charts)
+3. 💪 Opened PR [#3](https://github.com/rancher/provisioning/pull/3) in [rancher/provisioning](https://github.com/rancher/provisioning)
+4. 💪 Opened PR [#563](https://github.com/rancher/image-mirror/pull/563) in [rancher/image-mirror](https://github.com/rancher/image-mirror)
+5. 💪 Opened PR [#9](https://github.com/rancher/calico-cni/pull/9) in [rancher/calico-cni](https://github.com/rancher/calico-cni)
 <!--END_SECTION:activity-->
 
 ### :book: Blogs posts

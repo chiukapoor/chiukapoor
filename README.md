@@ -14,11 +14,11 @@
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#9](https://github.com/rancher/calico-cni/pull/9) in [rancher/calico-cni](https://github.com/rancher/calico-cni)
-2. 💪 Opened PR [#332](https://github.com/rancher/eks-operator/pull/332) in [rancher/eks-operator](https://github.com/rancher/eks-operator)
-3. 🗣 Commented on [#44027](https://github.com/rancher/rancher/pull/44027#issuecomment-1903831384) in [rancher/rancher](https://github.com/rancher/rancher)
-4. ❌ Closed PR [#44027](https://github.com/rancher/rancher/pull/44027) in [rancher/rancher](https://github.com/rancher/rancher)
-5. 💪 Opened PR [#296](https://github.com/rancher/gke-operator/pull/296) in [rancher/gke-operator](https://github.com/rancher/gke-operator)
+1. 💪 Opened PR [#563](https://github.com/rancher/image-mirror/pull/563) in [rancher/image-mirror](https://github.com/rancher/image-mirror)
+2. 💪 Opened PR [#9](https://github.com/rancher/calico-cni/pull/9) in [rancher/calico-cni](https://github.com/rancher/calico-cni)
+3. 💪 Opened PR [#332](https://github.com/rancher/eks-operator/pull/332) in [rancher/eks-operator](https://github.com/rancher/eks-operator)
+4. 🗣 Commented on [#44027](https://github.com/rancher/rancher/pull/44027#issuecomment-1903831384) in [rancher/rancher](https://github.com/rancher/rancher)
+5. ❌ Closed PR [#44027](https://github.com/rancher/rancher/pull/44027) in [rancher/rancher](https://github.com/rancher/rancher)
 <!--END_SECTION:activity-->
 
 ### :book: Blogs posts

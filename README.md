@@ -14,11 +14,11 @@
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#58](https://github.com/rancher/lasso/pull/58) in [rancher/lasso](https://github.com/rancher/lasso)
-2. 💪 Opened PR [#3367](https://github.com/rancher/charts/pull/3367) in [rancher/charts](https://github.com/rancher/charts)
-3. 💪 Opened PR [#3](https://github.com/rancher/provisioning/pull/3) in [rancher/provisioning](https://github.com/rancher/provisioning)
-4. 💪 Opened PR [#563](https://github.com/rancher/image-mirror/pull/563) in [rancher/image-mirror](https://github.com/rancher/image-mirror)
-5. 💪 Opened PR [#9](https://github.com/rancher/calico-cni/pull/9) in [rancher/calico-cni](https://github.com/rancher/calico-cni)
+1. 🎉 Merged PR [#340](https://github.com/rancher/hyperkube/pull/340) in [rancher/hyperkube](https://github.com/rancher/hyperkube)
+2. 💪 Opened PR [#58](https://github.com/rancher/lasso/pull/58) in [rancher/lasso](https://github.com/rancher/lasso)
+3. 💪 Opened PR [#3367](https://github.com/rancher/charts/pull/3367) in [rancher/charts](https://github.com/rancher/charts)
+4. 💪 Opened PR [#3](https://github.com/rancher/provisioning/pull/3) in [rancher/provisioning](https://github.com/rancher/provisioning)
+5. 💪 Opened PR [#563](https://github.com/rancher/image-mirror/pull/563) in [rancher/image-mirror](https://github.com/rancher/image-mirror)
 <!--END_SECTION:activity-->
 
 ### :book: Blogs posts

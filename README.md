@@ -14,11 +14,11 @@
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🚀 Published release [v1.28.6-rancher1](https://github.com/rancher/hyperkube/releases/tag/v1.28.6-rancher1) in [rancher/hyperkube](https://github.com/rancher/hyperkube)
-2. 🎉 Merged PR [#340](https://github.com/rancher/hyperkube/pull/340) in [rancher/hyperkube](https://github.com/rancher/hyperkube)
-3. 💪 Opened PR [#58](https://github.com/rancher/lasso/pull/58) in [rancher/lasso](https://github.com/rancher/lasso)
-4. 💪 Opened PR [#3367](https://github.com/rancher/charts/pull/3367) in [rancher/charts](https://github.com/rancher/charts)
-5. 💪 Opened PR [#3](https://github.com/rancher/provisioning/pull/3) in [rancher/provisioning](https://github.com/rancher/provisioning)
+1. 💪 Opened PR [#358](https://github.com/rancher/wrangler/pull/358) in [rancher/wrangler](https://github.com/rancher/wrangler)
+2. 🚀 Published release [v1.28.6-rancher1](https://github.com/rancher/hyperkube/releases/tag/v1.28.6-rancher1) in [rancher/hyperkube](https://github.com/rancher/hyperkube)
+3. 🎉 Merged PR [#340](https://github.com/rancher/hyperkube/pull/340) in [rancher/hyperkube](https://github.com/rancher/hyperkube)
+4. 💪 Opened PR [#58](https://github.com/rancher/lasso/pull/58) in [rancher/lasso](https://github.com/rancher/lasso)
+5. 💪 Opened PR [#3367](https://github.com/rancher/charts/pull/3367) in [rancher/charts](https://github.com/rancher/charts)
 <!--END_SECTION:activity-->
 
 ### :book: Blogs posts

@@ -14,11 +14,11 @@
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#470](https://github.com/rancher/norman/pull/470) in [rancher/norman](https://github.com/rancher/norman)
-2. 🗣 Commented on [#46](https://github.com/rancher/apiserver/pull/46#issuecomment-1909374524) in [rancher/apiserver](https://github.com/rancher/apiserver)
-3. ❗ Opened issue [#44203](https://github.com/rancher/rancher/issues/44203) in [rancher/rancher](https://github.com/rancher/rancher)
-4. 💪 Opened PR [#358](https://github.com/rancher/wrangler/pull/358) in [rancher/wrangler](https://github.com/rancher/wrangler)
-5. 🚀 Published release [v1.28.6-rancher1](https://github.com/rancher/hyperkube/releases/tag/v1.28.6-rancher1) in [rancher/hyperkube](https://github.com/rancher/hyperkube)
+1. 🎉 Merged PR [#3490](https://github.com/rancher/rke/pull/3490) in [rancher/rke](https://github.com/rancher/rke)
+2. 🎉 Merged PR [#3489](https://github.com/rancher/rke/pull/3489) in [rancher/rke](https://github.com/rancher/rke)
+3. 💪 Opened PR [#470](https://github.com/rancher/norman/pull/470) in [rancher/norman](https://github.com/rancher/norman)
+4. 🗣 Commented on [#46](https://github.com/rancher/apiserver/pull/46#issuecomment-1909374524) in [rancher/apiserver](https://github.com/rancher/apiserver)
+5. ❗ Opened issue [#44203](https://github.com/rancher/rancher/issues/44203) in [rancher/rancher](https://github.com/rancher/rancher)
 <!--END_SECTION:activity-->
 
 ### :book: Blogs posts

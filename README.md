@@ -14,11 +14,11 @@
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#296](https://github.com/rancher/gke-operator/pull/296) in [rancher/gke-operator](https://github.com/rancher/gke-operator)
-2. 💪 Opened PR [#387](https://github.com/rancher/aks-operator/pull/387) in [rancher/aks-operator](https://github.com/rancher/aks-operator)
-3. 🎉 Merged PR [#368](https://github.com/rancher/aks-operator/pull/368) in [rancher/aks-operator](https://github.com/rancher/aks-operator)
-4. 🗣 Commented on [#44087](https://github.com/rancher/rancher/issues/44087#issuecomment-1929358698) in [rancher/rancher](https://github.com/rancher/rancher)
-5. 🗣 Commented on [#43012](https://github.com/rancher/rancher/issues/43012#issuecomment-1926216418) in [rancher/rancher](https://github.com/rancher/rancher)
+1. 💪 Opened PR [#322](https://github.com/rancher/gke-operator/pull/322) in [rancher/gke-operator](https://github.com/rancher/gke-operator)
+2. 🎉 Merged PR [#296](https://github.com/rancher/gke-operator/pull/296) in [rancher/gke-operator](https://github.com/rancher/gke-operator)
+3. 💪 Opened PR [#387](https://github.com/rancher/aks-operator/pull/387) in [rancher/aks-operator](https://github.com/rancher/aks-operator)
+4. 🎉 Merged PR [#368](https://github.com/rancher/aks-operator/pull/368) in [rancher/aks-operator](https://github.com/rancher/aks-operator)
+5. 🗣 Commented on [#44087](https://github.com/rancher/rancher/issues/44087#issuecomment-1929358698) in [rancher/rancher](https://github.com/rancher/rancher)
 <!--END_SECTION:activity-->
 
 ### :book: Blogs posts

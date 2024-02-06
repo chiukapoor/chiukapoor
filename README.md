@@ -14,11 +14,11 @@
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#93](https://github.com/rancher/dynamiclistener/pull/93) in [rancher/dynamiclistener](https://github.com/rancher/dynamiclistener)
-2. 💪 Opened PR [#56](https://github.com/rancher/apiserver/pull/56) in [rancher/apiserver](https://github.com/rancher/apiserver)
-3. 🎉 Merged PR [#355](https://github.com/rancher/eks-operator/pull/355) in [rancher/eks-operator](https://github.com/rancher/eks-operator)
-4. 💪 Opened PR [#355](https://github.com/rancher/eks-operator/pull/355) in [rancher/eks-operator](https://github.com/rancher/eks-operator)
-5. 💪 Opened PR [#322](https://github.com/rancher/gke-operator/pull/322) in [rancher/gke-operator](https://github.com/rancher/gke-operator)
+1. 🎉 Merged PR [#93](https://github.com/rancher/dynamiclistener/pull/93) in [rancher/dynamiclistener](https://github.com/rancher/dynamiclistener)
+2. 💪 Opened PR [#93](https://github.com/rancher/dynamiclistener/pull/93) in [rancher/dynamiclistener](https://github.com/rancher/dynamiclistener)
+3. 💪 Opened PR [#56](https://github.com/rancher/apiserver/pull/56) in [rancher/apiserver](https://github.com/rancher/apiserver)
+4. 🎉 Merged PR [#355](https://github.com/rancher/eks-operator/pull/355) in [rancher/eks-operator](https://github.com/rancher/eks-operator)
+5. 💪 Opened PR [#355](https://github.com/rancher/eks-operator/pull/355) in [rancher/eks-operator](https://github.com/rancher/eks-operator)
 <!--END_SECTION:activity-->
 
 ### :book: Blogs posts

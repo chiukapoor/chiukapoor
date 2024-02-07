@@ -14,11 +14,11 @@
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#474](https://github.com/rancher/norman/pull/474) in [rancher/norman](https://github.com/rancher/norman)
-2. 🗣 Commented on [#25](https://github.com/rancher/channelserver/pull/25#issuecomment-1930611110) in [rancher/channelserver](https://github.com/rancher/channelserver)
-3. 💪 Opened PR [#150](https://github.com/rancher/steve/pull/150) in [rancher/steve](https://github.com/rancher/steve)
-4. 🎉 Merged PR [#93](https://github.com/rancher/dynamiclistener/pull/93) in [rancher/dynamiclistener](https://github.com/rancher/dynamiclistener)
-5. 💪 Opened PR [#93](https://github.com/rancher/dynamiclistener/pull/93) in [rancher/dynamiclistener](https://github.com/rancher/dynamiclistener)
+1. ❌ Closed PR [#474](https://github.com/rancher/norman/pull/474) in [rancher/norman](https://github.com/rancher/norman)
+2. 💪 Opened PR [#474](https://github.com/rancher/norman/pull/474) in [rancher/norman](https://github.com/rancher/norman)
+3. 🗣 Commented on [#25](https://github.com/rancher/channelserver/pull/25#issuecomment-1930611110) in [rancher/channelserver](https://github.com/rancher/channelserver)
+4. 💪 Opened PR [#150](https://github.com/rancher/steve/pull/150) in [rancher/steve](https://github.com/rancher/steve)
+5. 🎉 Merged PR [#93](https://github.com/rancher/dynamiclistener/pull/93) in [rancher/dynamiclistener](https://github.com/rancher/dynamiclistener)
 <!--END_SECTION:activity-->
 
 ### :book: Blogs posts

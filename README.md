@@ -14,11 +14,11 @@
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#157](https://github.com/rancher/steve/pull/157) in [rancher/steve](https://github.com/rancher/steve)
-2. 🗣 Commented on [#150](https://github.com/rancher/steve/pull/150#issuecomment-1933367444) in [rancher/steve](https://github.com/rancher/steve)
-3. ❌ Closed PR [#150](https://github.com/rancher/steve/pull/150) in [rancher/steve](https://github.com/rancher/steve)
-4. ❌ Closed PR [#474](https://github.com/rancher/norman/pull/474) in [rancher/norman](https://github.com/rancher/norman)
-5. 💪 Opened PR [#474](https://github.com/rancher/norman/pull/474) in [rancher/norman](https://github.com/rancher/norman)
+1. 💪 Opened PR [#574](https://github.com/rancher/image-mirror/pull/574) in [rancher/image-mirror](https://github.com/rancher/image-mirror)
+2. 💪 Opened PR [#157](https://github.com/rancher/steve/pull/157) in [rancher/steve](https://github.com/rancher/steve)
+3. 🗣 Commented on [#150](https://github.com/rancher/steve/pull/150#issuecomment-1933367444) in [rancher/steve](https://github.com/rancher/steve)
+4. ❌ Closed PR [#150](https://github.com/rancher/steve/pull/150) in [rancher/steve](https://github.com/rancher/steve)
+5. ❌ Closed PR [#474](https://github.com/rancher/norman/pull/474) in [rancher/norman](https://github.com/rancher/norman)
 <!--END_SECTION:activity-->
 
 ### :book: Blogs posts

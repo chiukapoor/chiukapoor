@@ -14,11 +14,11 @@
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#404](https://github.com/rancher/aks-operator/pull/404) in [rancher/aks-operator](https://github.com/rancher/aks-operator)
-2. 🗣 Commented on [#1293](https://github.com/rancher/kontainer-driver-metadata/pull/1293#issuecomment-1940663887) in [rancher/kontainer-driver-metadata](https://github.com/rancher/kontainer-driver-metadata)
-3. 🗣 Commented on [#3367](https://github.com/rancher/charts/pull/3367#issuecomment-1940421708) in [rancher/charts](https://github.com/rancher/charts)
-4. ❌ Reopened PR [#3367](https://github.com/rancher/charts/pull/3367) in [rancher/charts](https://github.com/rancher/charts)
-5. 💪 Opened PR [#574](https://github.com/rancher/image-mirror/pull/574) in [rancher/image-mirror](https://github.com/rancher/image-mirror)
+1. 💪 Opened PR [#367](https://github.com/rancher/eks-operator/pull/367) in [rancher/eks-operator](https://github.com/rancher/eks-operator)
+2. 💪 Opened PR [#404](https://github.com/rancher/aks-operator/pull/404) in [rancher/aks-operator](https://github.com/rancher/aks-operator)
+3. 🗣 Commented on [#1293](https://github.com/rancher/kontainer-driver-metadata/pull/1293#issuecomment-1940663887) in [rancher/kontainer-driver-metadata](https://github.com/rancher/kontainer-driver-metadata)
+4. 🗣 Commented on [#3367](https://github.com/rancher/charts/pull/3367#issuecomment-1940421708) in [rancher/charts](https://github.com/rancher/charts)
+5. ❌ Reopened PR [#3367](https://github.com/rancher/charts/pull/3367) in [rancher/charts](https://github.com/rancher/charts)
 <!--END_SECTION:activity-->
 
 ### :book: Blogs posts

@@ -14,11 +14,11 @@
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#3](https://github.com/rancher/provisioning/pull/3) in [rancher/provisioning](https://github.com/rancher/provisioning)
-2. 🗣 Commented on [#3](https://github.com/rancher/provisioning/pull/3#issuecomment-1942336533) in [rancher/provisioning](https://github.com/rancher/provisioning)
-3. 💪 Opened PR [#367](https://github.com/rancher/eks-operator/pull/367) in [rancher/eks-operator](https://github.com/rancher/eks-operator)
-4. 💪 Opened PR [#404](https://github.com/rancher/aks-operator/pull/404) in [rancher/aks-operator](https://github.com/rancher/aks-operator)
-5. 🗣 Commented on [#1293](https://github.com/rancher/kontainer-driver-metadata/pull/1293#issuecomment-1940663887) in [rancher/kontainer-driver-metadata](https://github.com/rancher/kontainer-driver-metadata)
+1. 💪 Opened PR [#128](https://github.com/rancher/ingress-nginx/pull/128) in [rancher/ingress-nginx](https://github.com/rancher/ingress-nginx)
+2. 🎉 Merged PR [#3](https://github.com/rancher/provisioning/pull/3) in [rancher/provisioning](https://github.com/rancher/provisioning)
+3. 🗣 Commented on [#3](https://github.com/rancher/provisioning/pull/3#issuecomment-1942336533) in [rancher/provisioning](https://github.com/rancher/provisioning)
+4. 💪 Opened PR [#367](https://github.com/rancher/eks-operator/pull/367) in [rancher/eks-operator](https://github.com/rancher/eks-operator)
+5. 💪 Opened PR [#404](https://github.com/rancher/aks-operator/pull/404) in [rancher/aks-operator](https://github.com/rancher/aks-operator)
 <!--END_SECTION:activity-->
 
 ### :book: Blogs posts

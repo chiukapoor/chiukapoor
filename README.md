@@ -14,11 +14,11 @@
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#236](https://github.com/rancher/machine/pull/236) in [rancher/machine](https://github.com/rancher/machine)
-2. 🎉 Merged PR [#1325](https://github.com/rancher/kontainer-driver-metadata/pull/1325) in [rancher/kontainer-driver-metadata](https://github.com/rancher/kontainer-driver-metadata)
-3. 🎉 Merged PR [#4](https://github.com/rancher/provisioning/pull/4) in [rancher/provisioning](https://github.com/rancher/provisioning)
-4. 💪 Opened PR [#4](https://github.com/rancher/provisioning/pull/4) in [rancher/provisioning](https://github.com/rancher/provisioning)
-5. 💪 Opened PR [#368](https://github.com/rancher/eks-operator/pull/368) in [rancher/eks-operator](https://github.com/rancher/eks-operator)
+1. 🗣 Commented on [#44427](https://github.com/rancher/rancher/issues/44427#issuecomment-1950217175) in [rancher/rancher](https://github.com/rancher/rancher)
+2. 🎉 Merged PR [#236](https://github.com/rancher/machine/pull/236) in [rancher/machine](https://github.com/rancher/machine)
+3. 🎉 Merged PR [#1325](https://github.com/rancher/kontainer-driver-metadata/pull/1325) in [rancher/kontainer-driver-metadata](https://github.com/rancher/kontainer-driver-metadata)
+4. 🎉 Merged PR [#4](https://github.com/rancher/provisioning/pull/4) in [rancher/provisioning](https://github.com/rancher/provisioning)
+5. 💪 Opened PR [#4](https://github.com/rancher/provisioning/pull/4) in [rancher/provisioning](https://github.com/rancher/provisioning)
 <!--END_SECTION:activity-->
 
 ### :book: Blogs posts

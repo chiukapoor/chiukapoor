@@ -14,11 +14,11 @@
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#43109](https://github.com/rancher/rancher/issues/43109#issuecomment-1951704441) in [rancher/rancher](https://github.com/rancher/rancher)
-2. 🗣 Commented on [#44427](https://github.com/rancher/rancher/issues/44427#issuecomment-1950217175) in [rancher/rancher](https://github.com/rancher/rancher)
-3. 🎉 Merged PR [#236](https://github.com/rancher/machine/pull/236) in [rancher/machine](https://github.com/rancher/machine)
-4. 🎉 Merged PR [#1325](https://github.com/rancher/kontainer-driver-metadata/pull/1325) in [rancher/kontainer-driver-metadata](https://github.com/rancher/kontainer-driver-metadata)
-5. 🎉 Merged PR [#4](https://github.com/rancher/provisioning/pull/4) in [rancher/provisioning](https://github.com/rancher/provisioning)
+1. 💪 Opened PR [#43](https://github.com/rancher/helm/pull/43) in [rancher/helm](https://github.com/rancher/helm)
+2. 🗣 Commented on [#43109](https://github.com/rancher/rancher/issues/43109#issuecomment-1951704441) in [rancher/rancher](https://github.com/rancher/rancher)
+3. 🗣 Commented on [#44427](https://github.com/rancher/rancher/issues/44427#issuecomment-1950217175) in [rancher/rancher](https://github.com/rancher/rancher)
+4. 🎉 Merged PR [#236](https://github.com/rancher/machine/pull/236) in [rancher/machine](https://github.com/rancher/machine)
+5. 🎉 Merged PR [#1325](https://github.com/rancher/kontainer-driver-metadata/pull/1325) in [rancher/kontainer-driver-metadata](https://github.com/rancher/kontainer-driver-metadata)
 <!--END_SECTION:activity-->
 
 ### :book: Blogs posts

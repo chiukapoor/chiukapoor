@@ -14,11 +14,11 @@
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#129](https://github.com/rancher/ingress-nginx/pull/129) in [rancher/ingress-nginx](https://github.com/rancher/ingress-nginx)
-2. 💪 Opened PR [#43](https://github.com/rancher/helm/pull/43) in [rancher/helm](https://github.com/rancher/helm)
-3. 🗣 Commented on [#43109](https://github.com/rancher/rancher/issues/43109#issuecomment-1951704441) in [rancher/rancher](https://github.com/rancher/rancher)
-4. 🗣 Commented on [#44427](https://github.com/rancher/rancher/issues/44427#issuecomment-1950217175) in [rancher/rancher](https://github.com/rancher/rancher)
-5. 🎉 Merged PR [#236](https://github.com/rancher/machine/pull/236) in [rancher/machine](https://github.com/rancher/machine)
+1. 💪 Opened PR [#580](https://github.com/rancher/image-mirror/pull/580) in [rancher/image-mirror](https://github.com/rancher/image-mirror)
+2. 💪 Opened PR [#129](https://github.com/rancher/ingress-nginx/pull/129) in [rancher/ingress-nginx](https://github.com/rancher/ingress-nginx)
+3. 💪 Opened PR [#43](https://github.com/rancher/helm/pull/43) in [rancher/helm](https://github.com/rancher/helm)
+4. 🗣 Commented on [#43109](https://github.com/rancher/rancher/issues/43109#issuecomment-1951704441) in [rancher/rancher](https://github.com/rancher/rancher)
+5. 🗣 Commented on [#44427](https://github.com/rancher/rancher/issues/44427#issuecomment-1950217175) in [rancher/rancher](https://github.com/rancher/rancher)
 <!--END_SECTION:activity-->
 
 ### :book: Blogs posts

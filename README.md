@@ -14,11 +14,11 @@
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#581](https://github.com/rancher/image-mirror/pull/581) in [rancher/image-mirror](https://github.com/rancher/image-mirror)
-2. 💪 Opened PR [#219](https://github.com/rancher/shell/pull/219) in [rancher/shell](https://github.com/rancher/shell)
-3. 💪 Opened PR [#1331](https://github.com/rancher/kontainer-driver-metadata/pull/1331) in [rancher/kontainer-driver-metadata](https://github.com/rancher/kontainer-driver-metadata)
-4. 💪 Opened PR [#580](https://github.com/rancher/image-mirror/pull/580) in [rancher/image-mirror](https://github.com/rancher/image-mirror)
-5. 💪 Opened PR [#129](https://github.com/rancher/ingress-nginx/pull/129) in [rancher/ingress-nginx](https://github.com/rancher/ingress-nginx)
+1. 💪 Opened PR [#44542](https://github.com/rancher/rancher/pull/44542) in [rancher/rancher](https://github.com/rancher/rancher)
+2. 💪 Opened PR [#581](https://github.com/rancher/image-mirror/pull/581) in [rancher/image-mirror](https://github.com/rancher/image-mirror)
+3. 💪 Opened PR [#219](https://github.com/rancher/shell/pull/219) in [rancher/shell](https://github.com/rancher/shell)
+4. 💪 Opened PR [#1331](https://github.com/rancher/kontainer-driver-metadata/pull/1331) in [rancher/kontainer-driver-metadata](https://github.com/rancher/kontainer-driver-metadata)
+5. 💪 Opened PR [#580](https://github.com/rancher/image-mirror/pull/580) in [rancher/image-mirror](https://github.com/rancher/image-mirror)
 <!--END_SECTION:activity-->
 
 ### :book: Blogs posts

@@ -14,11 +14,11 @@
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#44586](https://github.com/rancher/rancher/pull/44586#issuecomment-1966289494) in [rancher/rancher](https://github.com/rancher/rancher)
-2. 🗣 Commented on [#44579](https://github.com/rancher/rancher/pull/44579#issuecomment-1965799905) in [rancher/rancher](https://github.com/rancher/rancher)
-3. 🎉 Merged PR [#140](https://github.com/rancher/steve/pull/140) in [rancher/steve](https://github.com/rancher/steve)
-4. 🗣 Commented on [#1337](https://github.com/rancher/kontainer-driver-metadata/pull/1337#issuecomment-1960856480) in [rancher/kontainer-driver-metadata](https://github.com/rancher/kontainer-driver-metadata)
-5. 🎉 Merged PR [#44542](https://github.com/rancher/rancher/pull/44542) in [rancher/rancher](https://github.com/rancher/rancher)
+1. 💪 Opened PR [#44687](https://github.com/rancher/rancher/pull/44687) in [rancher/rancher](https://github.com/rancher/rancher)
+2. 🗣 Commented on [#44682](https://github.com/rancher/rancher/issues/44682#issuecomment-1980762917) in [rancher/rancher](https://github.com/rancher/rancher)
+3. 🗣 Commented on [#44586](https://github.com/rancher/rancher/pull/44586#issuecomment-1966289494) in [rancher/rancher](https://github.com/rancher/rancher)
+4. 🗣 Commented on [#44579](https://github.com/rancher/rancher/pull/44579#issuecomment-1965799905) in [rancher/rancher](https://github.com/rancher/rancher)
+5. 🎉 Merged PR [#140](https://github.com/rancher/steve/pull/140) in [rancher/steve](https://github.com/rancher/steve)
 <!--END_SECTION:activity-->
 
 ### :book: Blogs posts

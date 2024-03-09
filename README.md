@@ -14,11 +14,11 @@
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#44682](https://github.com/rancher/rancher/issues/44682#issuecomment-1983652214) in [rancher/rancher](https://github.com/rancher/rancher)
-2. 🚀 Published release [Pre-release v1.5.6-rc3](https://github.com/rancher/rke/releases/tag/v1.5.6-rc3) in [rancher/rke](https://github.com/rancher/rke)
-3. 🎉 Merged PR [#3520](https://github.com/rancher/rke/pull/3520) in [rancher/rke](https://github.com/rancher/rke)
-4. 🚀 Published release [Pre-release v1.4.16-rc3](https://github.com/rancher/rke/releases/tag/v1.4.16-rc3) in [rancher/rke](https://github.com/rancher/rke)
-5. 🎉 Merged PR [#3519](https://github.com/rancher/rke/pull/3519) in [rancher/rke](https://github.com/rancher/rke)
+1. 🎉 Merged PR [#44688](https://github.com/rancher/rancher/pull/44688) in [rancher/rancher](https://github.com/rancher/rancher)
+2. 🗣 Commented on [#44682](https://github.com/rancher/rancher/issues/44682#issuecomment-1983652214) in [rancher/rancher](https://github.com/rancher/rancher)
+3. 🚀 Published release [Pre-release v1.5.6-rc3](https://github.com/rancher/rke/releases/tag/v1.5.6-rc3) in [rancher/rke](https://github.com/rancher/rke)
+4. 🎉 Merged PR [#3520](https://github.com/rancher/rke/pull/3520) in [rancher/rke](https://github.com/rancher/rke)
+5. 🚀 Published release [Pre-release v1.4.16-rc3](https://github.com/rancher/rke/releases/tag/v1.4.16-rc3) in [rancher/rke](https://github.com/rancher/rke)
 <!--END_SECTION:activity-->
 
 ### :book: Blogs posts

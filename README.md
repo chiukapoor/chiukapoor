@@ -14,11 +14,11 @@
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🔒 Closed issue [#44682](https://github.com/rancher/rancher/issues/44682) in [rancher/rancher](https://github.com/rancher/rancher)
-2. 🎉 Merged PR [#44750](https://github.com/rancher/rancher/pull/44750) in [rancher/rancher](https://github.com/rancher/rancher)
-3. 🎉 Merged PR [#44749](https://github.com/rancher/rancher/pull/44749) in [rancher/rancher](https://github.com/rancher/rancher)
-4. 🗣 Commented on [#44520](https://github.com/rancher/rancher/issues/44520#issuecomment-1987722688) in [rancher/rancher](https://github.com/rancher/rancher)
-5. 🗣 Commented on [#44544](https://github.com/rancher/rancher/issues/44544#issuecomment-1987722567) in [rancher/rancher](https://github.com/rancher/rancher)
+1. 💪 Opened PR [#1186](https://github.com/rancher/rancher-docs/pull/1186) in [rancher/rancher-docs](https://github.com/rancher/rancher-docs)
+2. 🔒 Closed issue [#44682](https://github.com/rancher/rancher/issues/44682) in [rancher/rancher](https://github.com/rancher/rancher)
+3. 🎉 Merged PR [#44750](https://github.com/rancher/rancher/pull/44750) in [rancher/rancher](https://github.com/rancher/rancher)
+4. 🎉 Merged PR [#44749](https://github.com/rancher/rancher/pull/44749) in [rancher/rancher](https://github.com/rancher/rancher)
+5. 🗣 Commented on [#44520](https://github.com/rancher/rancher/issues/44520#issuecomment-1987722688) in [rancher/rancher](https://github.com/rancher/rancher)
 <!--END_SECTION:activity-->
 
 ### :book: Blogs posts

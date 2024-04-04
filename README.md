@@ -14,11 +14,11 @@
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🔒 Closed issue [#44982](https://github.com/rancher/rancher/issues/44982) in [rancher/rancher](https://github.com/rancher/rancher)
-2. 🗣 Commented on [#44982](https://github.com/rancher/rancher/issues/44982#issuecomment-2027150686) in [rancher/rancher](https://github.com/rancher/rancher)
-3. 🔒 Closed issue [#44982](https://github.com/rancher/rancher/issues/44982) in [rancher/rancher](https://github.com/rancher/rancher)
-4. ❗ Opened issue [#289](https://github.com/rancher/cis-operator/issues/289) in [rancher/cis-operator](https://github.com/rancher/cis-operator)
-5. 💪 Opened PR [#3721](https://github.com/rancher/charts/pull/3721) in [rancher/charts](https://github.com/rancher/charts)
+1. 💪 Opened PR [#200](https://github.com/rancher/security-scan/pull/200) in [rancher/security-scan](https://github.com/rancher/security-scan)
+2. 🔒 Closed issue [#44982](https://github.com/rancher/rancher/issues/44982) in [rancher/rancher](https://github.com/rancher/rancher)
+3. 🗣 Commented on [#44982](https://github.com/rancher/rancher/issues/44982#issuecomment-2027150686) in [rancher/rancher](https://github.com/rancher/rancher)
+4. 🔒 Closed issue [#44982](https://github.com/rancher/rancher/issues/44982) in [rancher/rancher](https://github.com/rancher/rancher)
+5. ❗ Opened issue [#289](https://github.com/rancher/cis-operator/issues/289) in [rancher/cis-operator](https://github.com/rancher/cis-operator)
 <!--END_SECTION:activity-->
 
 ### :book: Blogs posts

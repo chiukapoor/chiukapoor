@@ -14,11 +14,11 @@
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#3546](https://github.com/rancher/rke/pull/3546) in [rancher/rke](https://github.com/rancher/rke)
-2. 💪 Opened PR [#201](https://github.com/rancher/security-scan/pull/201) in [rancher/security-scan](https://github.com/rancher/security-scan)
-3. 🚀 Published release [v0.2.15-rc1](https://github.com/rancher/security-scan/releases/tag/v0.2.15-rc1) in [rancher/security-scan](https://github.com/rancher/security-scan)
-4. 💪 Opened PR [#3546](https://github.com/rancher/rke/pull/3546) in [rancher/rke](https://github.com/rancher/rke)
-5. 🎉 Merged PR [#200](https://github.com/rancher/security-scan/pull/200) in [rancher/security-scan](https://github.com/rancher/security-scan)
+1. 💪 Opened PR [#45082](https://github.com/rancher/rancher/pull/45082) in [rancher/rancher](https://github.com/rancher/rancher)
+2. 🎉 Merged PR [#3546](https://github.com/rancher/rke/pull/3546) in [rancher/rke](https://github.com/rancher/rke)
+3. 💪 Opened PR [#201](https://github.com/rancher/security-scan/pull/201) in [rancher/security-scan](https://github.com/rancher/security-scan)
+4. 🚀 Published release [v0.2.15-rc1](https://github.com/rancher/security-scan/releases/tag/v0.2.15-rc1) in [rancher/security-scan](https://github.com/rancher/security-scan)
+5. 💪 Opened PR [#3546](https://github.com/rancher/rke/pull/3546) in [rancher/rke](https://github.com/rancher/rke)
 <!--END_SECTION:activity-->
 
 ### :book: Blogs posts

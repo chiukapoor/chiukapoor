@@ -14,11 +14,11 @@
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🔓 Reopened issue [#289](https://github.com/rancher/cis-operator/issues/289) in [rancher/cis-operator](https://github.com/rancher/cis-operator)
-2. 🎉 Merged PR [#3721](https://github.com/rancher/charts/pull/3721) in [rancher/charts](https://github.com/rancher/charts)
-3. 🚀 Published release [v0.2.15-rc2](https://github.com/rancher/security-scan/releases/tag/v0.2.15-rc2) in [rancher/security-scan](https://github.com/rancher/security-scan)
-4. 🔒 Closed issue [#289](https://github.com/rancher/cis-operator/issues/289) in [rancher/cis-operator](https://github.com/rancher/cis-operator)
-5. 🎉 Merged PR [#201](https://github.com/rancher/security-scan/pull/201) in [rancher/security-scan](https://github.com/rancher/security-scan)
+1. 💪 Opened PR [#45115](https://github.com/rancher/rancher/pull/45115) in [rancher/rancher](https://github.com/rancher/rancher)
+2. 🔓 Reopened issue [#289](https://github.com/rancher/cis-operator/issues/289) in [rancher/cis-operator](https://github.com/rancher/cis-operator)
+3. 🎉 Merged PR [#3721](https://github.com/rancher/charts/pull/3721) in [rancher/charts](https://github.com/rancher/charts)
+4. 🚀 Published release [v0.2.15-rc2](https://github.com/rancher/security-scan/releases/tag/v0.2.15-rc2) in [rancher/security-scan](https://github.com/rancher/security-scan)
+5. 🔒 Closed issue [#289](https://github.com/rancher/cis-operator/issues/289) in [rancher/cis-operator](https://github.com/rancher/cis-operator)
 <!--END_SECTION:activity-->
 
 ### :book: Blogs posts

@@ -14,11 +14,11 @@
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#133](https://github.com/rancher/kubernetes/pull/133) in [rancher/kubernetes](https://github.com/rancher/kubernetes)
-2. 💪 Opened PR [#132](https://github.com/rancher/kubernetes/pull/132) in [rancher/kubernetes](https://github.com/rancher/kubernetes)
-3. 🚀 Published release [v0.2.15-rc2](https://github.com/rancher/security-scan/releases/tag/v0.2.15-rc2) in [rancher/security-scan](https://github.com/rancher/security-scan)
-4. 🎉 Merged PR [#45115](https://github.com/rancher/rancher/pull/45115) in [rancher/rancher](https://github.com/rancher/rancher)
-5. 💪 Opened PR [#131](https://github.com/rancher/install-docker/pull/131) in [rancher/install-docker](https://github.com/rancher/install-docker)
+1. 💪 Opened PR [#353](https://github.com/rancher/hyperkube/pull/353) in [rancher/hyperkube](https://github.com/rancher/hyperkube)
+2. 💪 Opened PR [#352](https://github.com/rancher/hyperkube/pull/352) in [rancher/hyperkube](https://github.com/rancher/hyperkube)
+3. 💪 Opened PR [#133](https://github.com/rancher/kubernetes/pull/133) in [rancher/kubernetes](https://github.com/rancher/kubernetes)
+4. 💪 Opened PR [#132](https://github.com/rancher/kubernetes/pull/132) in [rancher/kubernetes](https://github.com/rancher/kubernetes)
+5. 🚀 Published release [v0.2.15-rc2](https://github.com/rancher/security-scan/releases/tag/v0.2.15-rc2) in [rancher/security-scan](https://github.com/rancher/security-scan)
 <!--END_SECTION:activity-->
 
 ### :book: Blogs posts

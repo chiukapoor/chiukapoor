@@ -14,11 +14,11 @@
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#353](https://github.com/rancher/hyperkube/pull/353) in [rancher/hyperkube](https://github.com/rancher/hyperkube)
-2. 💪 Opened PR [#352](https://github.com/rancher/hyperkube/pull/352) in [rancher/hyperkube](https://github.com/rancher/hyperkube)
-3. 💪 Opened PR [#133](https://github.com/rancher/kubernetes/pull/133) in [rancher/kubernetes](https://github.com/rancher/kubernetes)
-4. 💪 Opened PR [#132](https://github.com/rancher/kubernetes/pull/132) in [rancher/kubernetes](https://github.com/rancher/kubernetes)
-5. 🚀 Published release [v0.2.15-rc2](https://github.com/rancher/security-scan/releases/tag/v0.2.15-rc2) in [rancher/security-scan](https://github.com/rancher/security-scan)
+1. 💪 Opened PR [#1384](https://github.com/rancher/kontainer-driver-metadata/pull/1384) in [rancher/kontainer-driver-metadata](https://github.com/rancher/kontainer-driver-metadata)
+2. 💪 Opened PR [#353](https://github.com/rancher/hyperkube/pull/353) in [rancher/hyperkube](https://github.com/rancher/hyperkube)
+3. 💪 Opened PR [#352](https://github.com/rancher/hyperkube/pull/352) in [rancher/hyperkube](https://github.com/rancher/hyperkube)
+4. 💪 Opened PR [#133](https://github.com/rancher/kubernetes/pull/133) in [rancher/kubernetes](https://github.com/rancher/kubernetes)
+5. 💪 Opened PR [#132](https://github.com/rancher/kubernetes/pull/132) in [rancher/kubernetes](https://github.com/rancher/kubernetes)
 <!--END_SECTION:activity-->
 
 ### :book: Blogs posts

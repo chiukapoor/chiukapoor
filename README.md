@@ -14,11 +14,11 @@
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. ❗ Opened issue [#45154](https://github.com/rancher/rancher/issues/45154) in [rancher/rancher](https://github.com/rancher/rancher)
-2. 💪 Opened PR [#45153](https://github.com/rancher/rancher/pull/45153) in [rancher/rancher](https://github.com/rancher/rancher)
-3. 🗣 Commented on [#45152](https://github.com/rancher/rancher/issues/45152#issuecomment-2060924133) in [rancher/rancher](https://github.com/rancher/rancher)
-4. ❗ Opened issue [#45152](https://github.com/rancher/rancher/issues/45152) in [rancher/rancher](https://github.com/rancher/rancher)
-5. 💪 Opened PR [#1385](https://github.com/rancher/kontainer-driver-metadata/pull/1385) in [rancher/kontainer-driver-metadata](https://github.com/rancher/kontainer-driver-metadata)
+1. 🚀 Published release [v1.27.13-rancher1](https://github.com/rancher/hyperkube/releases/tag/v1.27.13-rancher1) in [rancher/hyperkube](https://github.com/rancher/hyperkube)
+2. 🎉 Merged PR [#352](https://github.com/rancher/hyperkube/pull/352) in [rancher/hyperkube](https://github.com/rancher/hyperkube)
+3. 🎉 Merged PR [#353](https://github.com/rancher/hyperkube/pull/353) in [rancher/hyperkube](https://github.com/rancher/hyperkube)
+4. ❗ Opened issue [#45154](https://github.com/rancher/rancher/issues/45154) in [rancher/rancher](https://github.com/rancher/rancher)
+5. 💪 Opened PR [#45153](https://github.com/rancher/rancher/pull/45153) in [rancher/rancher](https://github.com/rancher/rancher)
 <!--END_SECTION:activity-->
 
 ### :book: Blogs posts

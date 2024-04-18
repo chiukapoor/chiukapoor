@@ -14,11 +14,11 @@
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#45082](https://github.com/rancher/rancher/pull/45082#issuecomment-2063563681) in [rancher/rancher](https://github.com/rancher/rancher)
-2. 🎉 Merged PR [#45153](https://github.com/rancher/rancher/pull/45153) in [rancher/rancher](https://github.com/rancher/rancher)
-3. 🚀 Published release [v1.28.9-rancher1](https://github.com/rancher/hyperkube/releases/tag/v1.28.9-rancher1) in [rancher/hyperkube](https://github.com/rancher/hyperkube)
-4. 🚀 Published release [v1.27.13-rancher1](https://github.com/rancher/hyperkube/releases/tag/v1.27.13-rancher1) in [rancher/hyperkube](https://github.com/rancher/hyperkube)
-5. 🎉 Merged PR [#352](https://github.com/rancher/hyperkube/pull/352) in [rancher/hyperkube](https://github.com/rancher/hyperkube)
+1. 🗣 Commented on [#45082](https://github.com/rancher/rancher/pull/45082#issuecomment-2063643313) in [rancher/rancher](https://github.com/rancher/rancher)
+2. 🗣 Commented on [#45082](https://github.com/rancher/rancher/pull/45082#issuecomment-2063563681) in [rancher/rancher](https://github.com/rancher/rancher)
+3. 🎉 Merged PR [#45153](https://github.com/rancher/rancher/pull/45153) in [rancher/rancher](https://github.com/rancher/rancher)
+4. 🚀 Published release [v1.28.9-rancher1](https://github.com/rancher/hyperkube/releases/tag/v1.28.9-rancher1) in [rancher/hyperkube](https://github.com/rancher/hyperkube)
+5. 🚀 Published release [v1.27.13-rancher1](https://github.com/rancher/hyperkube/releases/tag/v1.27.13-rancher1) in [rancher/hyperkube](https://github.com/rancher/hyperkube)
 <!--END_SECTION:activity-->
 
 ### :book: Blogs posts

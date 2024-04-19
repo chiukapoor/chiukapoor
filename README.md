@@ -14,11 +14,11 @@
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#45152](https://github.com/rancher/rancher/issues/45152#issuecomment-2065765572) in [rancher/rancher](https://github.com/rancher/rancher)
-2. 🔒 Closed issue [#45152](https://github.com/rancher/rancher/issues/45152) in [rancher/rancher](https://github.com/rancher/rancher)
-3. 🗣 Commented on [#45159](https://github.com/rancher/rancher/issues/45159#issuecomment-2064127195) in [rancher/rancher](https://github.com/rancher/rancher)
-4. 🗣 Commented on [#45082](https://github.com/rancher/rancher/pull/45082#issuecomment-2063643313) in [rancher/rancher](https://github.com/rancher/rancher)
-5. 🗣 Commented on [#45082](https://github.com/rancher/rancher/pull/45082#issuecomment-2063563681) in [rancher/rancher](https://github.com/rancher/rancher)
+1. ❗ Opened issue [#10841](https://github.com/rancher/dashboard/issues/10841) in [rancher/dashboard](https://github.com/rancher/dashboard)
+2. 💪 Opened PR [#1390](https://github.com/rancher/kontainer-driver-metadata/pull/1390) in [rancher/kontainer-driver-metadata](https://github.com/rancher/kontainer-driver-metadata)
+3. 🗣 Commented on [#130](https://github.com/rancher/install-docker/pull/130#issuecomment-2065989875) in [rancher/install-docker](https://github.com/rancher/install-docker)
+4. 🗣 Commented on [#45013](https://github.com/rancher/rancher/issues/45013#issuecomment-2065988818) in [rancher/rancher](https://github.com/rancher/rancher)
+5. 🗣 Commented on [#45152](https://github.com/rancher/rancher/issues/45152#issuecomment-2065765572) in [rancher/rancher](https://github.com/rancher/rancher)
 <!--END_SECTION:activity-->
 
 ### :book: Blogs posts

@@ -14,11 +14,11 @@
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#132](https://github.com/rancher/install-docker/pull/132) in [rancher/install-docker](https://github.com/rancher/install-docker)
-2. 🗣 Commented on [#10841](https://github.com/rancher/dashboard/issues/10841#issuecomment-2066208964) in [rancher/dashboard](https://github.com/rancher/dashboard)
-3. 🗣 Commented on [#10841](https://github.com/rancher/dashboard/issues/10841#issuecomment-2066205744) in [rancher/dashboard](https://github.com/rancher/dashboard)
-4. ❗ Opened issue [#10841](https://github.com/rancher/dashboard/issues/10841) in [rancher/dashboard](https://github.com/rancher/dashboard)
-5. 💪 Opened PR [#1390](https://github.com/rancher/kontainer-driver-metadata/pull/1390) in [rancher/kontainer-driver-metadata](https://github.com/rancher/kontainer-driver-metadata)
+1. 🎉 Merged PR [#1390](https://github.com/rancher/kontainer-driver-metadata/pull/1390) in [rancher/kontainer-driver-metadata](https://github.com/rancher/kontainer-driver-metadata)
+2. 🎉 Merged PR [#45116](https://github.com/rancher/rancher/pull/45116) in [rancher/rancher](https://github.com/rancher/rancher)
+3. 🔒 Closed issue [#45154](https://github.com/rancher/rancher/issues/45154) in [rancher/rancher](https://github.com/rancher/rancher)
+4. 🎉 Merged PR [#45082](https://github.com/rancher/rancher/pull/45082) in [rancher/rancher](https://github.com/rancher/rancher)
+5. 💪 Opened PR [#132](https://github.com/rancher/install-docker/pull/132) in [rancher/install-docker](https://github.com/rancher/install-docker)
 <!--END_SECTION:activity-->
 
 ### :book: Blogs posts

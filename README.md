@@ -14,11 +14,11 @@
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. ❗ Opened issue [#45289](https://github.com/rancher/rancher/issues/45289) in [rancher/rancher](https://github.com/rancher/rancher)
-2. 🎉 Merged PR [#3565](https://github.com/rancher/rke/pull/3565) in [rancher/rke](https://github.com/rancher/rke)
-3. 🎉 Merged PR [#3566](https://github.com/rancher/rke/pull/3566) in [rancher/rke](https://github.com/rancher/rke)
-4. 🗣 Commented on [#3565](https://github.com/rancher/rke/pull/3565#issuecomment-2074798450) in [rancher/rke](https://github.com/rancher/rke)
-5. 💪 Opened PR [#3566](https://github.com/rancher/rke/pull/3566) in [rancher/rke](https://github.com/rancher/rke)
+1. 🗣 Commented on [#45289](https://github.com/rancher/rancher/issues/45289#issuecomment-2082780457) in [rancher/rancher](https://github.com/rancher/rancher)
+2. ❗ Opened issue [#45289](https://github.com/rancher/rancher/issues/45289) in [rancher/rancher](https://github.com/rancher/rancher)
+3. 🎉 Merged PR [#3565](https://github.com/rancher/rke/pull/3565) in [rancher/rke](https://github.com/rancher/rke)
+4. 🎉 Merged PR [#3566](https://github.com/rancher/rke/pull/3566) in [rancher/rke](https://github.com/rancher/rke)
+5. 🗣 Commented on [#3565](https://github.com/rancher/rke/pull/3565#issuecomment-2074798450) in [rancher/rke](https://github.com/rancher/rke)
 <!--END_SECTION:activity-->
 
 ### :book: Blogs posts

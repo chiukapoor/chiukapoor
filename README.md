@@ -14,11 +14,11 @@
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#44902](https://github.com/rancher/rancher/issues/44902#issuecomment-2084394236) in [rancher/rancher](https://github.com/rancher/rancher)
-2. 🔒 Closed issue [#44902](https://github.com/rancher/rancher/issues/44902) in [rancher/rancher](https://github.com/rancher/rancher)
-3. 🗣 Commented on [#45114](https://github.com/rancher/rancher/issues/45114#issuecomment-2084377230) in [rancher/rancher](https://github.com/rancher/rancher)
-4. 🔒 Closed issue [#45114](https://github.com/rancher/rancher/issues/45114) in [rancher/rancher](https://github.com/rancher/rancher)
-5. 🗣 Commented on [#45289](https://github.com/rancher/rancher/issues/45289#issuecomment-2082780457) in [rancher/rancher](https://github.com/rancher/rancher)
+1. 🚀 Published release [v0.2.15-rc2](https://github.com/rancher/security-scan/releases/tag/v0.2.15-rc2) in [rancher/security-scan](https://github.com/rancher/security-scan)
+2. 🗣 Commented on [#44902](https://github.com/rancher/rancher/issues/44902#issuecomment-2084394236) in [rancher/rancher](https://github.com/rancher/rancher)
+3. 🔒 Closed issue [#44902](https://github.com/rancher/rancher/issues/44902) in [rancher/rancher](https://github.com/rancher/rancher)
+4. 🗣 Commented on [#45114](https://github.com/rancher/rancher/issues/45114#issuecomment-2084377230) in [rancher/rancher](https://github.com/rancher/rancher)
+5. 🔒 Closed issue [#45114](https://github.com/rancher/rancher/issues/45114) in [rancher/rancher](https://github.com/rancher/rancher)
 <!--END_SECTION:activity-->
 
 ### :book: Blogs posts

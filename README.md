@@ -14,11 +14,11 @@
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#3863](https://github.com/rancher/charts/pull/3863) in [rancher/charts](https://github.com/rancher/charts)
-2. 🎉 Merged PR [#3862](https://github.com/rancher/charts/pull/3862) in [rancher/charts](https://github.com/rancher/charts)
-3. 💪 Opened PR [#3863](https://github.com/rancher/charts/pull/3863) in [rancher/charts](https://github.com/rancher/charts)
-4. 💪 Opened PR [#3862](https://github.com/rancher/charts/pull/3862) in [rancher/charts](https://github.com/rancher/charts)
-5. 🚀 Published release [v0.2.15](https://github.com/rancher/security-scan/releases/tag/v0.2.15) in [rancher/security-scan](https://github.com/rancher/security-scan)
+1. 💪 Opened PR [#606](https://github.com/rancher/system-charts/pull/606) in [rancher/system-charts](https://github.com/rancher/system-charts)
+2. 💪 Opened PR [#3576](https://github.com/rancher/rke/pull/3576) in [rancher/rke](https://github.com/rancher/rke)
+3. 🎉 Merged PR [#3863](https://github.com/rancher/charts/pull/3863) in [rancher/charts](https://github.com/rancher/charts)
+4. 🎉 Merged PR [#3862](https://github.com/rancher/charts/pull/3862) in [rancher/charts](https://github.com/rancher/charts)
+5. 💪 Opened PR [#3863](https://github.com/rancher/charts/pull/3863) in [rancher/charts](https://github.com/rancher/charts)
 <!--END_SECTION:activity-->
 
 ### :book: Blogs posts

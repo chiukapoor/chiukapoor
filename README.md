@@ -14,11 +14,11 @@
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#10586](https://github.com/kubernetes-sigs/cluster-api/pull/10586) in [kubernetes-sigs/cluster-api](https://github.com/kubernetes-sigs/cluster-api)
-2. ❗ Opened issue [#10996](https://github.com/rancher/dashboard/issues/10996) in [rancher/dashboard](https://github.com/rancher/dashboard)
-3. 💪 Opened PR [#1395](https://github.com/rancher/kontainer-driver-metadata/pull/1395) in [rancher/kontainer-driver-metadata](https://github.com/rancher/kontainer-driver-metadata)
-4. 🚀 Published release [v1.6.0-rc3](https://github.com/rancher/rke/releases/tag/v1.6.0-rc3) in [rancher/rke](https://github.com/rancher/rke)
-5. 🗣 Commented on [#44922](https://github.com/rancher/rancher/issues/44922#issuecomment-2102387076) in [rancher/rancher](https://github.com/rancher/rancher)
+1. 💪 Opened PR [#45441](https://github.com/rancher/rancher/pull/45441) in [rancher/rancher](https://github.com/rancher/rancher)
+2. 💪 Opened PR [#10586](https://github.com/kubernetes-sigs/cluster-api/pull/10586) in [kubernetes-sigs/cluster-api](https://github.com/kubernetes-sigs/cluster-api)
+3. ❗ Opened issue [#10996](https://github.com/rancher/dashboard/issues/10996) in [rancher/dashboard](https://github.com/rancher/dashboard)
+4. 💪 Opened PR [#1395](https://github.com/rancher/kontainer-driver-metadata/pull/1395) in [rancher/kontainer-driver-metadata](https://github.com/rancher/kontainer-driver-metadata)
+5. 🚀 Published release [v1.6.0-rc3](https://github.com/rancher/rke/releases/tag/v1.6.0-rc3) in [rancher/rke](https://github.com/rancher/rke)
 <!--END_SECTION:activity-->
 
 ### :book: Blogs posts

@@ -14,11 +14,11 @@
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#768](https://github.com/kelseyhightower/kubernetes-the-hard-way/issues/768#issuecomment-2104366323) in [kelseyhightower/kubernetes-the-hard-way](https://github.com/kelseyhightower/kubernetes-the-hard-way)
-2. 💪 Opened PR [#780](https://github.com/kelseyhightower/kubernetes-the-hard-way/pull/780) in [kelseyhightower/kubernetes-the-hard-way](https://github.com/kelseyhightower/kubernetes-the-hard-way)
-3. 💪 Opened PR [#45441](https://github.com/rancher/rancher/pull/45441) in [rancher/rancher](https://github.com/rancher/rancher)
-4. 💪 Opened PR [#10586](https://github.com/kubernetes-sigs/cluster-api/pull/10586) in [kubernetes-sigs/cluster-api](https://github.com/kubernetes-sigs/cluster-api)
-5. ❗ Opened issue [#10996](https://github.com/rancher/dashboard/issues/10996) in [rancher/dashboard](https://github.com/rancher/dashboard)
+1. 💪 Opened PR [#3902](https://github.com/rancher/charts/pull/3902) in [rancher/charts](https://github.com/rancher/charts)
+2. 🗣 Commented on [#768](https://github.com/kelseyhightower/kubernetes-the-hard-way/issues/768#issuecomment-2104366323) in [kelseyhightower/kubernetes-the-hard-way](https://github.com/kelseyhightower/kubernetes-the-hard-way)
+3. 💪 Opened PR [#780](https://github.com/kelseyhightower/kubernetes-the-hard-way/pull/780) in [kelseyhightower/kubernetes-the-hard-way](https://github.com/kelseyhightower/kubernetes-the-hard-way)
+4. 💪 Opened PR [#45441](https://github.com/rancher/rancher/pull/45441) in [rancher/rancher](https://github.com/rancher/rancher)
+5. 💪 Opened PR [#10586](https://github.com/kubernetes-sigs/cluster-api/pull/10586) in [kubernetes-sigs/cluster-api](https://github.com/kubernetes-sigs/cluster-api)
 <!--END_SECTION:activity-->
 
 ### :book: Blogs posts

@@ -14,11 +14,11 @@
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#141](https://github.com/rancher/install-docker/pull/141) in [rancher/install-docker](https://github.com/rancher/install-docker)
-2. 💪 Opened PR [#140](https://github.com/rancher/install-docker/pull/140) in [rancher/install-docker](https://github.com/rancher/install-docker)
-3. 💪 Opened PR [#45479](https://github.com/rancher/rancher/pull/45479) in [rancher/rancher](https://github.com/rancher/rancher)
-4. 💪 Opened PR [#45478](https://github.com/rancher/rancher/pull/45478) in [rancher/rancher](https://github.com/rancher/rancher)
-5. 💪 Opened PR [#3902](https://github.com/rancher/charts/pull/3902) in [rancher/charts](https://github.com/rancher/charts)
+1. ❗ Opened issue [#45525](https://github.com/rancher/rancher/issues/45525) in [rancher/rancher](https://github.com/rancher/rancher)
+2. 💪 Opened PR [#141](https://github.com/rancher/install-docker/pull/141) in [rancher/install-docker](https://github.com/rancher/install-docker)
+3. 💪 Opened PR [#140](https://github.com/rancher/install-docker/pull/140) in [rancher/install-docker](https://github.com/rancher/install-docker)
+4. 💪 Opened PR [#45479](https://github.com/rancher/rancher/pull/45479) in [rancher/rancher](https://github.com/rancher/rancher)
+5. 💪 Opened PR [#45478](https://github.com/rancher/rancher/pull/45478) in [rancher/rancher](https://github.com/rancher/rancher)
 <!--END_SECTION:activity-->
 
 ### :book: Blogs posts

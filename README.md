@@ -14,11 +14,11 @@
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#1282](https://github.com/cloud-ark/kubeplus/pull/1282) in [cloud-ark/kubeplus](https://github.com/cloud-ark/kubeplus)
-2. ❗ Opened issue [#1281](https://github.com/cloud-ark/kubeplus/issues/1281) in [cloud-ark/kubeplus](https://github.com/cloud-ark/kubeplus)
-3. 🗣 Commented on [#142](https://github.com/rancher/install-docker/pull/142#issuecomment-2119674981) in [rancher/install-docker](https://github.com/rancher/install-docker)
-4. 💪 Opened PR [#3588](https://github.com/rancher/rke/pull/3588) in [rancher/rke](https://github.com/rancher/rke)
-5. 💪 Opened PR [#142](https://github.com/rancher/install-docker/pull/142) in [rancher/install-docker](https://github.com/rancher/install-docker)
+1. 🚀 Published release [Pre-release v1.6.0-rc4](https://github.com/rancher/rke/releases/tag/v1.6.0-rc4) in [rancher/rke](https://github.com/rancher/rke)
+2. 🎉 Merged PR [#3575](https://github.com/rancher/rke/pull/3575) in [rancher/rke](https://github.com/rancher/rke)
+3. 🎉 Merged PR [#45441](https://github.com/rancher/rancher/pull/45441) in [rancher/rancher](https://github.com/rancher/rancher)
+4. 🎉 Merged PR [#3588](https://github.com/rancher/rke/pull/3588) in [rancher/rke](https://github.com/rancher/rke)
+5. 💪 Opened PR [#1282](https://github.com/cloud-ark/kubeplus/pull/1282) in [cloud-ark/kubeplus](https://github.com/cloud-ark/kubeplus)
 <!--END_SECTION:activity-->
 
 ### :book: Blogs posts

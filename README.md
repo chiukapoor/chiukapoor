@@ -14,11 +14,11 @@
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#606](https://github.com/rancher/system-charts/pull/606) in [rancher/system-charts](https://github.com/rancher/system-charts)
-2. 🗣 Commented on [#1281](https://github.com/cloud-ark/kubeplus/issues/1281#issuecomment-2122304430) in [cloud-ark/kubeplus](https://github.com/cloud-ark/kubeplus)
-3. 🗣 Commented on [#1282](https://github.com/cloud-ark/kubeplus/pull/1282#issuecomment-2122287088) in [cloud-ark/kubeplus](https://github.com/cloud-ark/kubeplus)
-4. 🗣 Commented on [#780](https://github.com/kelseyhightower/kubernetes-the-hard-way/pull/780#issuecomment-2121731954) in [kelseyhightower/kubernetes-the-hard-way](https://github.com/kelseyhightower/kubernetes-the-hard-way)
-5. 🚀 Published release [Pre-release v1.6.0-rc4](https://github.com/rancher/rke/releases/tag/v1.6.0-rc4) in [rancher/rke](https://github.com/rancher/rke)
+1. ❗ Opened issue [#45563](https://github.com/rancher/rancher/issues/45563) in [rancher/rancher](https://github.com/rancher/rancher)
+2. 🎉 Merged PR [#606](https://github.com/rancher/system-charts/pull/606) in [rancher/system-charts](https://github.com/rancher/system-charts)
+3. 🗣 Commented on [#1281](https://github.com/cloud-ark/kubeplus/issues/1281#issuecomment-2122304430) in [cloud-ark/kubeplus](https://github.com/cloud-ark/kubeplus)
+4. 🗣 Commented on [#1282](https://github.com/cloud-ark/kubeplus/pull/1282#issuecomment-2122287088) in [cloud-ark/kubeplus](https://github.com/cloud-ark/kubeplus)
+5. 🗣 Commented on [#780](https://github.com/kelseyhightower/kubernetes-the-hard-way/pull/780#issuecomment-2121731954) in [kelseyhightower/kubernetes-the-hard-way](https://github.com/kelseyhightower/kubernetes-the-hard-way)
 <!--END_SECTION:activity-->
 
 ### :book: Blogs posts

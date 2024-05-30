@@ -14,11 +14,11 @@
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#1284](https://github.com/cloud-ark/kubeplus/pull/1284) in [cloud-ark/kubeplus](https://github.com/cloud-ark/kubeplus)
-2. 🎉 Merged PR [#3951](https://github.com/rancher/charts/pull/3951) in [rancher/charts](https://github.com/rancher/charts)
-3. 🗣 Commented on [#1283](https://github.com/cloud-ark/kubeplus/issues/1283#issuecomment-2136495901) in [cloud-ark/kubeplus](https://github.com/cloud-ark/kubeplus)
-4. 🗣 Commented on [#45439](https://github.com/rancher/rancher/issues/45439#issuecomment-2124481260) in [rancher/rancher](https://github.com/rancher/rancher)
-5. 💪 Opened PR [#3951](https://github.com/rancher/charts/pull/3951) in [rancher/charts](https://github.com/rancher/charts)
+1. 🗣 Commented on [#45439](https://github.com/rancher/rancher/issues/45439#issuecomment-2138750223) in [rancher/rancher](https://github.com/rancher/rancher)
+2. 🗣 Commented on [#45633](https://github.com/rancher/rancher/issues/45633#issuecomment-2138748048) in [rancher/rancher](https://github.com/rancher/rancher)
+3. ❗ Opened issue [#45633](https://github.com/rancher/rancher/issues/45633) in [rancher/rancher](https://github.com/rancher/rancher)
+4. 🗣 Commented on [#10996](https://github.com/rancher/dashboard/issues/10996#issuecomment-2138745807) in [rancher/dashboard](https://github.com/rancher/dashboard)
+5. 💪 Opened PR [#45632](https://github.com/rancher/rancher/pull/45632) in [rancher/rancher](https://github.com/rancher/rancher)
 <!--END_SECTION:activity-->
 
 ### :book: Blogs posts

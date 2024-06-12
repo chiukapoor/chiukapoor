@@ -14,11 +14,11 @@
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#204159](https://github.com/microsoft/vscode/issues/204159#issuecomment-2153348739) in [microsoft/vscode](https://github.com/microsoft/vscode)
-2. ❗ Opened issue [#1287](https://github.com/cloud-ark/kubeplus/issues/1287) in [cloud-ark/kubeplus](https://github.com/cloud-ark/kubeplus)
-3. 🗣 Commented on [#1281](https://github.com/cloud-ark/kubeplus/issues/1281#issuecomment-2143856433) in [cloud-ark/kubeplus](https://github.com/cloud-ark/kubeplus)
-4. 🗣 Commented on [#45439](https://github.com/rancher/rancher/issues/45439#issuecomment-2138750223) in [rancher/rancher](https://github.com/rancher/rancher)
-5. 🗣 Commented on [#45633](https://github.com/rancher/rancher/issues/45633#issuecomment-2138748048) in [rancher/rancher](https://github.com/rancher/rancher)
+1. 🎉 Merged PR [#45427](https://github.com/rancher/rancher/pull/45427) in [rancher/rancher](https://github.com/rancher/rancher)
+2. 🗣 Commented on [#204159](https://github.com/microsoft/vscode/issues/204159#issuecomment-2153348739) in [microsoft/vscode](https://github.com/microsoft/vscode)
+3. ❗ Opened issue [#1287](https://github.com/cloud-ark/kubeplus/issues/1287) in [cloud-ark/kubeplus](https://github.com/cloud-ark/kubeplus)
+4. 🗣 Commented on [#1281](https://github.com/cloud-ark/kubeplus/issues/1281#issuecomment-2143856433) in [cloud-ark/kubeplus](https://github.com/cloud-ark/kubeplus)
+5. 🗣 Commented on [#45439](https://github.com/rancher/rancher/issues/45439#issuecomment-2138750223) in [rancher/rancher](https://github.com/rancher/rancher)
 <!--END_SECTION:activity-->
 
 ### :book: Blogs posts

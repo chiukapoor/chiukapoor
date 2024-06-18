@@ -14,11 +14,11 @@
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#219](https://github.com/rancher/shepherd/pull/219#issuecomment-2174282968) in [rancher/shepherd](https://github.com/rancher/shepherd)
-2. 💪 Opened PR [#4065](https://github.com/rancher/charts/pull/4065) in [rancher/charts](https://github.com/rancher/charts)
-3. 🎉 Merged PR [#45427](https://github.com/rancher/rancher/pull/45427) in [rancher/rancher](https://github.com/rancher/rancher)
-4. 🗣 Commented on [#204159](https://github.com/microsoft/vscode/issues/204159#issuecomment-2153348739) in [microsoft/vscode](https://github.com/microsoft/vscode)
-5. ❗ Opened issue [#1287](https://github.com/cloud-ark/kubeplus/issues/1287) in [cloud-ark/kubeplus](https://github.com/cloud-ark/kubeplus)
+1. 💪 Opened PR [#45854](https://github.com/rancher/rancher/pull/45854) in [rancher/rancher](https://github.com/rancher/rancher)
+2. 🗣 Commented on [#219](https://github.com/rancher/shepherd/pull/219#issuecomment-2174282968) in [rancher/shepherd](https://github.com/rancher/shepherd)
+3. 💪 Opened PR [#4065](https://github.com/rancher/charts/pull/4065) in [rancher/charts](https://github.com/rancher/charts)
+4. 🎉 Merged PR [#45427](https://github.com/rancher/rancher/pull/45427) in [rancher/rancher](https://github.com/rancher/rancher)
+5. 🗣 Commented on [#204159](https://github.com/microsoft/vscode/issues/204159#issuecomment-2153348739) in [microsoft/vscode](https://github.com/microsoft/vscode)
 <!--END_SECTION:activity-->
 
 ### :book: Blogs posts

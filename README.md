@@ -14,11 +14,11 @@
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🚀 Published release [v1.30.0-rancher2](https://github.com/vardhaman22/shepherd/releases/tag/v1.30.0-rancher2) in [vardhaman22/shepherd](https://github.com/vardhaman22/shepherd)
-2. 💪 Opened PR [#45854](https://github.com/rancher/rancher/pull/45854) in [rancher/rancher](https://github.com/rancher/rancher)
-3. 🗣 Commented on [#219](https://github.com/rancher/shepherd/pull/219#issuecomment-2174282968) in [rancher/shepherd](https://github.com/rancher/shepherd)
-4. 💪 Opened PR [#4065](https://github.com/rancher/charts/pull/4065) in [rancher/charts](https://github.com/rancher/charts)
-5. 🎉 Merged PR [#45427](https://github.com/rancher/rancher/pull/45427) in [rancher/rancher](https://github.com/rancher/rancher)
+1. 🗣 Commented on [#780](https://github.com/kelseyhightower/kubernetes-the-hard-way/pull/780#issuecomment-2176485928) in [kelseyhightower/kubernetes-the-hard-way](https://github.com/kelseyhightower/kubernetes-the-hard-way)
+2. 🚀 Published release [v1.30.0-rancher2](https://github.com/vardhaman22/shepherd/releases/tag/v1.30.0-rancher2) in [vardhaman22/shepherd](https://github.com/vardhaman22/shepherd)
+3. 💪 Opened PR [#45854](https://github.com/rancher/rancher/pull/45854) in [rancher/rancher](https://github.com/rancher/rancher)
+4. 🗣 Commented on [#219](https://github.com/rancher/shepherd/pull/219#issuecomment-2174282968) in [rancher/shepherd](https://github.com/rancher/shepherd)
+5. 💪 Opened PR [#4065](https://github.com/rancher/charts/pull/4065) in [rancher/charts](https://github.com/rancher/charts)
 <!--END_SECTION:activity-->
 
 ### :book: Blogs posts

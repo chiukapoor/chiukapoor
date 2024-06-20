@@ -14,11 +14,11 @@
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#11](https://github.com/rancher/provisioning/pull/11) in [rancher/provisioning](https://github.com/rancher/provisioning)
-2. 🗣 Commented on [#11](https://github.com/rancher/provisioning/pull/11#issuecomment-2178414199) in [rancher/provisioning](https://github.com/rancher/provisioning)
-3. 🗣 Commented on [#219](https://github.com/rancher/shepherd/pull/219#issuecomment-2178116919) in [rancher/shepherd](https://github.com/rancher/shepherd)
-4. 🗣 Commented on [#780](https://github.com/kelseyhightower/kubernetes-the-hard-way/pull/780#issuecomment-2176485928) in [kelseyhightower/kubernetes-the-hard-way](https://github.com/kelseyhightower/kubernetes-the-hard-way)
-5. 🚀 Published release [v1.30.0-rancher2](https://github.com/vardhaman22/shepherd/releases/tag/v1.30.0-rancher2) in [vardhaman22/shepherd](https://github.com/vardhaman22/shepherd)
+1. 💪 Opened PR [#4107](https://github.com/rancher/charts/pull/4107) in [rancher/charts](https://github.com/rancher/charts)
+2. 🎉 Merged PR [#11](https://github.com/rancher/provisioning/pull/11) in [rancher/provisioning](https://github.com/rancher/provisioning)
+3. 🗣 Commented on [#11](https://github.com/rancher/provisioning/pull/11#issuecomment-2178414199) in [rancher/provisioning](https://github.com/rancher/provisioning)
+4. 🗣 Commented on [#219](https://github.com/rancher/shepherd/pull/219#issuecomment-2178116919) in [rancher/shepherd](https://github.com/rancher/shepherd)
+5. 🗣 Commented on [#780](https://github.com/kelseyhightower/kubernetes-the-hard-way/pull/780#issuecomment-2176485928) in [kelseyhightower/kubernetes-the-hard-way](https://github.com/kelseyhightower/kubernetes-the-hard-way)
 <!--END_SECTION:activity-->
 
 ### :book: Blogs posts

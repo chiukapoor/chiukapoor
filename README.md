@@ -14,11 +14,11 @@
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#12](https://github.com/rancher/provisioning/pull/12) in [rancher/provisioning](https://github.com/rancher/provisioning)
-2. 🔒 Closed issue [#45633](https://github.com/rancher/rancher/issues/45633) in [rancher/rancher](https://github.com/rancher/rancher)
-3. 🗣 Commented on [#45633](https://github.com/rancher/rancher/issues/45633#issuecomment-2182003966) in [rancher/rancher](https://github.com/rancher/rancher)
-4. 🎉 Merged PR [#45632](https://github.com/rancher/rancher/pull/45632) in [rancher/rancher](https://github.com/rancher/rancher)
-5. 🎉 Merged PR [#4065](https://github.com/rancher/charts/pull/4065) in [rancher/charts](https://github.com/rancher/charts)
+1. 🎉 Merged PR [#12](https://github.com/rancher/provisioning/pull/12) in [rancher/provisioning](https://github.com/rancher/provisioning)
+2. 💪 Opened PR [#12](https://github.com/rancher/provisioning/pull/12) in [rancher/provisioning](https://github.com/rancher/provisioning)
+3. 🔒 Closed issue [#45633](https://github.com/rancher/rancher/issues/45633) in [rancher/rancher](https://github.com/rancher/rancher)
+4. 🗣 Commented on [#45633](https://github.com/rancher/rancher/issues/45633#issuecomment-2182003966) in [rancher/rancher](https://github.com/rancher/rancher)
+5. 🎉 Merged PR [#45632](https://github.com/rancher/rancher/pull/45632) in [rancher/rancher](https://github.com/rancher/rancher)
 <!--END_SECTION:activity-->
 
 ### :book: Blogs posts

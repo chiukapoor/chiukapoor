@@ -14,11 +14,11 @@
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. ❗ Opened issue [#1328](https://github.com/cloud-ark/kubeplus/issues/1328) in [cloud-ark/kubeplus](https://github.com/cloud-ark/kubeplus)
-2. 🗣 Commented on [#1326](https://github.com/cloud-ark/kubeplus/pull/1326#issuecomment-2220229618) in [cloud-ark/kubeplus](https://github.com/cloud-ark/kubeplus)
-3. 🗣 Commented on [#1326](https://github.com/cloud-ark/kubeplus/pull/1326#issuecomment-2214024162) in [cloud-ark/kubeplus](https://github.com/cloud-ark/kubeplus)
-4. ❌ Closed PR [#1327](https://github.com/cloud-ark/kubeplus/pull/1327) in [cloud-ark/kubeplus](https://github.com/cloud-ark/kubeplus)
-5. 💪 Opened PR [#1327](https://github.com/cloud-ark/kubeplus/pull/1327) in [cloud-ark/kubeplus](https://github.com/cloud-ark/kubeplus)
+1. 🗣 Commented on [#1287](https://github.com/cloud-ark/kubeplus/issues/1287#issuecomment-2227325320) in [cloud-ark/kubeplus](https://github.com/cloud-ark/kubeplus)
+2. 🗣 Commented on [#1328](https://github.com/cloud-ark/kubeplus/issues/1328#issuecomment-2227322834) in [cloud-ark/kubeplus](https://github.com/cloud-ark/kubeplus)
+3. ❗ Opened issue [#1328](https://github.com/cloud-ark/kubeplus/issues/1328) in [cloud-ark/kubeplus](https://github.com/cloud-ark/kubeplus)
+4. 🗣 Commented on [#1326](https://github.com/cloud-ark/kubeplus/pull/1326#issuecomment-2220229618) in [cloud-ark/kubeplus](https://github.com/cloud-ark/kubeplus)
+5. 🗣 Commented on [#1326](https://github.com/cloud-ark/kubeplus/pull/1326#issuecomment-2214024162) in [cloud-ark/kubeplus](https://github.com/cloud-ark/kubeplus)
 <!--END_SECTION:activity-->
 
 ### :book: Blogs posts

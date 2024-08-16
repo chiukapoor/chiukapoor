@@ -14,11 +14,11 @@
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#378](https://github.com/rancher/hyperkube/pull/378) in [rancher/hyperkube](https://github.com/rancher/hyperkube)
-2. 💪 Opened PR [#377](https://github.com/rancher/hyperkube/pull/377) in [rancher/hyperkube](https://github.com/rancher/hyperkube)
-3. 💪 Opened PR [#376](https://github.com/rancher/hyperkube/pull/376) in [rancher/hyperkube](https://github.com/rancher/hyperkube)
-4. 💪 Opened PR [#156](https://github.com/rancher/kubernetes/pull/156) in [rancher/kubernetes](https://github.com/rancher/kubernetes)
-5. 💪 Opened PR [#155](https://github.com/rancher/kubernetes/pull/155) in [rancher/kubernetes](https://github.com/rancher/kubernetes)
+1. ❗ Opened issue [#46720](https://github.com/rancher/rancher/issues/46720) in [rancher/rancher](https://github.com/rancher/rancher)
+2. 🗣 Commented on [#46470](https://github.com/rancher/rancher/issues/46470#issuecomment-2293726266) in [rancher/rancher](https://github.com/rancher/rancher)
+3. 🔒 Closed issue [#46470](https://github.com/rancher/rancher/issues/46470) in [rancher/rancher](https://github.com/rancher/rancher)
+4. 💪 Opened PR [#378](https://github.com/rancher/hyperkube/pull/378) in [rancher/hyperkube](https://github.com/rancher/hyperkube)
+5. 💪 Opened PR [#377](https://github.com/rancher/hyperkube/pull/377) in [rancher/hyperkube](https://github.com/rancher/hyperkube)
 <!--END_SECTION:activity-->
 
 ### :book: Blogs posts

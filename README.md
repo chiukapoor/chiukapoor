@@ -14,11 +14,11 @@
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🚀 Published release [v1.30.4-rancher1](https://github.com/rancher/hyperkube/releases/tag/v1.30.4-rancher1) in [rancher/hyperkube](https://github.com/rancher/hyperkube)
-2. 🚀 Published release [v1.29.8-rancher1](https://github.com/rancher/hyperkube/releases/tag/v1.29.8-rancher1) in [rancher/hyperkube](https://github.com/rancher/hyperkube)
-3. 🚀 Published release [v1.28.13-rancher1](https://github.com/rancher/hyperkube/releases/tag/v1.28.13-rancher1) in [rancher/hyperkube](https://github.com/rancher/hyperkube)
-4. 🎉 Merged PR [#376](https://github.com/rancher/hyperkube/pull/376) in [rancher/hyperkube](https://github.com/rancher/hyperkube)
-5. 🎉 Merged PR [#377](https://github.com/rancher/hyperkube/pull/377) in [rancher/hyperkube](https://github.com/rancher/hyperkube)
+1. 💪 Opened PR [#1473](https://github.com/rancher/kontainer-driver-metadata/pull/1473) in [rancher/kontainer-driver-metadata](https://github.com/rancher/kontainer-driver-metadata)
+2. 💪 Opened PR [#1472](https://github.com/rancher/kontainer-driver-metadata/pull/1472) in [rancher/kontainer-driver-metadata](https://github.com/rancher/kontainer-driver-metadata)
+3. 🚀 Published release [v1.30.4-rancher1](https://github.com/rancher/hyperkube/releases/tag/v1.30.4-rancher1) in [rancher/hyperkube](https://github.com/rancher/hyperkube)
+4. 🚀 Published release [v1.29.8-rancher1](https://github.com/rancher/hyperkube/releases/tag/v1.29.8-rancher1) in [rancher/hyperkube](https://github.com/rancher/hyperkube)
+5. 🚀 Published release [v1.28.13-rancher1](https://github.com/rancher/hyperkube/releases/tag/v1.28.13-rancher1) in [rancher/hyperkube](https://github.com/rancher/hyperkube)
 <!--END_SECTION:activity-->
 
 ### :book: Blogs posts

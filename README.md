@@ -14,11 +14,11 @@
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🚀 Published release [v0.1.101](https://github.com/rancher/rke-tools/releases/tag/v0.1.101) in [rancher/rke-tools](https://github.com/rancher/rke-tools)
-2. 💪 Opened PR [#1347](https://github.com/cloud-ark/kubeplus/pull/1347) in [cloud-ark/kubeplus](https://github.com/cloud-ark/kubeplus)
-3. 💪 Opened PR [#1473](https://github.com/rancher/kontainer-driver-metadata/pull/1473) in [rancher/kontainer-driver-metadata](https://github.com/rancher/kontainer-driver-metadata)
-4. 💪 Opened PR [#1472](https://github.com/rancher/kontainer-driver-metadata/pull/1472) in [rancher/kontainer-driver-metadata](https://github.com/rancher/kontainer-driver-metadata)
-5. 🚀 Published release [v1.30.4-rancher1](https://github.com/rancher/hyperkube/releases/tag/v1.30.4-rancher1) in [rancher/hyperkube](https://github.com/rancher/hyperkube)
+1. 💪 Opened PR [#1348](https://github.com/cloud-ark/kubeplus/pull/1348) in [cloud-ark/kubeplus](https://github.com/cloud-ark/kubeplus)
+2. 🚀 Published release [v0.1.101](https://github.com/rancher/rke-tools/releases/tag/v0.1.101) in [rancher/rke-tools](https://github.com/rancher/rke-tools)
+3. 💪 Opened PR [#1347](https://github.com/cloud-ark/kubeplus/pull/1347) in [cloud-ark/kubeplus](https://github.com/cloud-ark/kubeplus)
+4. 💪 Opened PR [#1473](https://github.com/rancher/kontainer-driver-metadata/pull/1473) in [rancher/kontainer-driver-metadata](https://github.com/rancher/kontainer-driver-metadata)
+5. 💪 Opened PR [#1472](https://github.com/rancher/kontainer-driver-metadata/pull/1472) in [rancher/kontainer-driver-metadata](https://github.com/rancher/kontainer-driver-metadata)
 <!--END_SECTION:activity-->
 
 ### :book: Blogs posts

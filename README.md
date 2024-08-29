@@ -14,11 +14,11 @@
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🔒 Closed issue [#46528](https://github.com/rancher/rancher/issues/46528) in [rancher/rancher](https://github.com/rancher/rancher)
-2. 🎉 Merged PR [#258](https://github.com/rancher/machine/pull/258) in [rancher/machine](https://github.com/rancher/machine)
-3. ❗ Opened issue [#1349](https://github.com/cloud-ark/kubeplus/issues/1349) in [cloud-ark/kubeplus](https://github.com/cloud-ark/kubeplus)
-4. 💪 Opened PR [#1348](https://github.com/cloud-ark/kubeplus/pull/1348) in [cloud-ark/kubeplus](https://github.com/cloud-ark/kubeplus)
-5. 🚀 Published release [v0.1.101](https://github.com/rancher/rke-tools/releases/tag/v0.1.101) in [rancher/rke-tools](https://github.com/rancher/rke-tools)
+1. 🗣 Commented on [#46528](https://github.com/rancher/rancher/issues/46528#issuecomment-2316712688) in [rancher/rancher](https://github.com/rancher/rancher)
+2. 🔒 Closed issue [#46528](https://github.com/rancher/rancher/issues/46528) in [rancher/rancher](https://github.com/rancher/rancher)
+3. 🎉 Merged PR [#258](https://github.com/rancher/machine/pull/258) in [rancher/machine](https://github.com/rancher/machine)
+4. ❗ Opened issue [#1349](https://github.com/cloud-ark/kubeplus/issues/1349) in [cloud-ark/kubeplus](https://github.com/cloud-ark/kubeplus)
+5. 💪 Opened PR [#1348](https://github.com/cloud-ark/kubeplus/pull/1348) in [cloud-ark/kubeplus](https://github.com/cloud-ark/kubeplus)
 <!--END_SECTION:activity-->
 
 ### :book: Blogs posts

@@ -14,11 +14,11 @@
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🚀 Published release [v0.1.102](https://github.com/rancher/rke-tools/releases/tag/v0.1.102) in [rancher/rke-tools](https://github.com/rancher/rke-tools)
-2. 🎉 Merged PR [#206](https://github.com/rancher/rke-tools/pull/206) in [rancher/rke-tools](https://github.com/rancher/rke-tools)
-3. 🗣 Commented on [#46528](https://github.com/rancher/rancher/issues/46528#issuecomment-2316712688) in [rancher/rancher](https://github.com/rancher/rancher)
-4. 🔒 Closed issue [#46528](https://github.com/rancher/rancher/issues/46528) in [rancher/rancher](https://github.com/rancher/rancher)
-5. 🎉 Merged PR [#258](https://github.com/rancher/machine/pull/258) in [rancher/machine](https://github.com/rancher/machine)
+1. 🗣 Commented on [#3666](https://github.com/rancher/rke/issues/3666#issuecomment-2323799991) in [rancher/rke](https://github.com/rancher/rke)
+2. 🔒 Closed issue [#3666](https://github.com/rancher/rke/issues/3666) in [rancher/rke](https://github.com/rancher/rke)
+3. 🚀 Published release [v0.1.102](https://github.com/rancher/rke-tools/releases/tag/v0.1.102) in [rancher/rke-tools](https://github.com/rancher/rke-tools)
+4. 🎉 Merged PR [#206](https://github.com/rancher/rke-tools/pull/206) in [rancher/rke-tools](https://github.com/rancher/rke-tools)
+5. 🗣 Commented on [#46528](https://github.com/rancher/rancher/issues/46528#issuecomment-2316712688) in [rancher/rancher](https://github.com/rancher/rancher)
 <!--END_SECTION:activity-->
 
 ### :book: Blogs posts

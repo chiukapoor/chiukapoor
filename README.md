@@ -14,11 +14,11 @@
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#1481](https://github.com/rancher/kontainer-driver-metadata/pull/1481) in [rancher/kontainer-driver-metadata](https://github.com/rancher/kontainer-driver-metadata)
-2. 🗣 Commented on [#3666](https://github.com/rancher/rke/issues/3666#issuecomment-2323799991) in [rancher/rke](https://github.com/rancher/rke)
-3. 🔒 Closed issue [#3666](https://github.com/rancher/rke/issues/3666) in [rancher/rke](https://github.com/rancher/rke)
-4. 🚀 Published release [v0.1.102](https://github.com/rancher/rke-tools/releases/tag/v0.1.102) in [rancher/rke-tools](https://github.com/rancher/rke-tools)
-5. 🎉 Merged PR [#206](https://github.com/rancher/rke-tools/pull/206) in [rancher/rke-tools](https://github.com/rancher/rke-tools)
+1. 🗣 Commented on [#11530](https://github.com/rancher/dashboard/issues/11530#issuecomment-2326567139) in [rancher/dashboard](https://github.com/rancher/dashboard)
+2. 💪 Opened PR [#46931](https://github.com/rancher/rancher/pull/46931) in [rancher/rancher](https://github.com/rancher/rancher)
+3. 💪 Opened PR [#1481](https://github.com/rancher/kontainer-driver-metadata/pull/1481) in [rancher/kontainer-driver-metadata](https://github.com/rancher/kontainer-driver-metadata)
+4. 🗣 Commented on [#3666](https://github.com/rancher/rke/issues/3666#issuecomment-2323799991) in [rancher/rke](https://github.com/rancher/rke)
+5. 🔒 Closed issue [#3666](https://github.com/rancher/rke/issues/3666) in [rancher/rke](https://github.com/rancher/rke)
 <!--END_SECTION:activity-->
 
 ### :book: Blogs posts

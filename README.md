@@ -14,11 +14,11 @@
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#663](https://github.com/rancher/image-mirror/pull/663#issuecomment-2327941592) in [rancher/image-mirror](https://github.com/rancher/image-mirror)
-2. ❌ Reopened PR [#663](https://github.com/rancher/image-mirror/pull/663) in [rancher/image-mirror](https://github.com/rancher/image-mirror)
-3. 🎉 Merged PR [#1462](https://github.com/rancher/kontainer-driver-metadata/pull/1462) in [rancher/kontainer-driver-metadata](https://github.com/rancher/kontainer-driver-metadata)
-4. 🗣 Commented on [#11530](https://github.com/rancher/dashboard/issues/11530#issuecomment-2326567139) in [rancher/dashboard](https://github.com/rancher/dashboard)
-5. 💪 Opened PR [#46931](https://github.com/rancher/rancher/pull/46931) in [rancher/rancher](https://github.com/rancher/rancher)
+1. 🗣 Commented on [#11530](https://github.com/rancher/dashboard/issues/11530#issuecomment-2327982219) in [rancher/dashboard](https://github.com/rancher/dashboard)
+2. 💪 Opened PR [#13](https://github.com/rancher/calico-cni/pull/13) in [rancher/calico-cni](https://github.com/rancher/calico-cni)
+3. 💪 Opened PR [#12](https://github.com/rancher/calico-cni/pull/12) in [rancher/calico-cni](https://github.com/rancher/calico-cni)
+4. 🗣 Commented on [#663](https://github.com/rancher/image-mirror/pull/663#issuecomment-2327941592) in [rancher/image-mirror](https://github.com/rancher/image-mirror)
+5. ❌ Reopened PR [#663](https://github.com/rancher/image-mirror/pull/663) in [rancher/image-mirror](https://github.com/rancher/image-mirror)
 <!--END_SECTION:activity-->
 
 ### :book: Blogs posts

@@ -14,11 +14,11 @@
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. ❌ Reopened PR [#136](https://github.com/rancher/ingress-nginx/pull/136) in [rancher/ingress-nginx](https://github.com/rancher/ingress-nginx)
-2. ❌ Closed PR [#136](https://github.com/rancher/ingress-nginx/pull/136) in [rancher/ingress-nginx](https://github.com/rancher/ingress-nginx)
-3. 💪 Opened PR [#136](https://github.com/rancher/ingress-nginx/pull/136) in [rancher/ingress-nginx](https://github.com/rancher/ingress-nginx)
-4. 💪 Opened PR [#3673](https://github.com/rancher/rke/pull/3673) in [rancher/rke](https://github.com/rancher/rke)
-5. 🗣 Commented on [#11530](https://github.com/rancher/dashboard/issues/11530#issuecomment-2327982219) in [rancher/dashboard](https://github.com/rancher/dashboard)
+1. 🎉 Merged PR [#136](https://github.com/rancher/ingress-nginx/pull/136) in [rancher/ingress-nginx](https://github.com/rancher/ingress-nginx)
+2. ❌ Reopened PR [#136](https://github.com/rancher/ingress-nginx/pull/136) in [rancher/ingress-nginx](https://github.com/rancher/ingress-nginx)
+3. ❌ Closed PR [#136](https://github.com/rancher/ingress-nginx/pull/136) in [rancher/ingress-nginx](https://github.com/rancher/ingress-nginx)
+4. 💪 Opened PR [#136](https://github.com/rancher/ingress-nginx/pull/136) in [rancher/ingress-nginx](https://github.com/rancher/ingress-nginx)
+5. 💪 Opened PR [#3673](https://github.com/rancher/rke/pull/3673) in [rancher/rke](https://github.com/rancher/rke)
 <!--END_SECTION:activity-->
 
 ### :book: Blogs posts

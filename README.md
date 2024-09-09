@@ -14,11 +14,11 @@
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#207](https://github.com/rancher/rke-tools/pull/207) in [rancher/rke-tools](https://github.com/rancher/rke-tools)
-2. 🚀 Published release [Pre-release v1.6.2-rc1](https://github.com/rancher/rke/releases/tag/v1.6.2-rc1) in [rancher/rke](https://github.com/rancher/rke)
-3. 🚀 Published release [Pre-release v1.5.13-rc1](https://github.com/rancher/rke/releases/tag/v1.5.13-rc1) in [rancher/rke](https://github.com/rancher/rke)
-4. 💪 Opened PR [#1485](https://github.com/rancher/kontainer-driver-metadata/pull/1485) in [rancher/kontainer-driver-metadata](https://github.com/rancher/kontainer-driver-metadata)
-5. 💪 Opened PR [#1484](https://github.com/rancher/kontainer-driver-metadata/pull/1484) in [rancher/kontainer-driver-metadata](https://github.com/rancher/kontainer-driver-metadata)
+1. 🎉 Merged PR [#1485](https://github.com/rancher/kontainer-driver-metadata/pull/1485) in [rancher/kontainer-driver-metadata](https://github.com/rancher/kontainer-driver-metadata)
+2. 🎉 Merged PR [#1484](https://github.com/rancher/kontainer-driver-metadata/pull/1484) in [rancher/kontainer-driver-metadata](https://github.com/rancher/kontainer-driver-metadata)
+3. 💪 Opened PR [#207](https://github.com/rancher/rke-tools/pull/207) in [rancher/rke-tools](https://github.com/rancher/rke-tools)
+4. 🚀 Published release [Pre-release v1.6.2-rc1](https://github.com/rancher/rke/releases/tag/v1.6.2-rc1) in [rancher/rke](https://github.com/rancher/rke)
+5. 🚀 Published release [Pre-release v1.5.13-rc1](https://github.com/rancher/rke/releases/tag/v1.5.13-rc1) in [rancher/rke](https://github.com/rancher/rke)
 <!--END_SECTION:activity-->
 
 ### :book: Blogs posts

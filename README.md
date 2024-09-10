@@ -14,11 +14,11 @@
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🚀 Published release [v3.27.2-rancher1](https://github.com/chiukapoor/calico-cni/releases/tag/v3.27.2-rancher1) in [chiukapoor/calico-cni](https://github.com/chiukapoor/calico-cni)
-2. 🚀 Published release [v3.27.1-rancher1](https://github.com/chiukapoor/calico-cni/releases/tag/v3.27.1-rancher1) in [chiukapoor/calico-cni](https://github.com/chiukapoor/calico-cni)
-3. ❗ Opened issue [#47014](https://github.com/rancher/rancher/issues/47014) in [rancher/rancher](https://github.com/rancher/rancher)
-4. 🎉 Merged PR [#47012](https://github.com/rancher/rancher/pull/47012) in [rancher/rancher](https://github.com/rancher/rancher)
-5. 🎉 Merged PR [#47011](https://github.com/rancher/rancher/pull/47011) in [rancher/rancher](https://github.com/rancher/rancher)
+1. 🚀 Published release [v3.27.3-rancher1](https://github.com/chiukapoor/calico-cni/releases/tag/v3.27.3-rancher1) in [chiukapoor/calico-cni](https://github.com/chiukapoor/calico-cni)
+2. 🚀 Published release [v3.27.2-rancher1](https://github.com/chiukapoor/calico-cni/releases/tag/v3.27.2-rancher1) in [chiukapoor/calico-cni](https://github.com/chiukapoor/calico-cni)
+3. 🚀 Published release [v3.27.2-rancher1](https://github.com/chiukapoor/calico-cni/releases/tag/v3.27.2-rancher1) in [chiukapoor/calico-cni](https://github.com/chiukapoor/calico-cni)
+4. 🚀 Published release [v3.27.1-rancher1](https://github.com/chiukapoor/calico-cni/releases/tag/v3.27.1-rancher1) in [chiukapoor/calico-cni](https://github.com/chiukapoor/calico-cni)
+5. ❗ Opened issue [#47014](https://github.com/rancher/rancher/issues/47014) in [rancher/rancher](https://github.com/rancher/rancher)
 <!--END_SECTION:activity-->
 
 ### :book: Blogs posts

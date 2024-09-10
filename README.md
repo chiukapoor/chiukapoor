@@ -14,11 +14,11 @@
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#16](https://github.com/rancher/calico-cni/pull/16) in [rancher/calico-cni](https://github.com/rancher/calico-cni)
-2. 💪 Opened PR [#15](https://github.com/rancher/calico-cni/pull/15) in [rancher/calico-cni](https://github.com/rancher/calico-cni)
-3. 🚀 Published release [v3.27.5-rancher1](https://github.com/chiukapoor/calico-cni/releases/tag/v3.27.5-rancher1) in [chiukapoor/calico-cni](https://github.com/chiukapoor/calico-cni)
-4. 🚀 Published release [v3.27.4-rancher1](https://github.com/chiukapoor/calico-cni/releases/tag/v3.27.4-rancher1) in [chiukapoor/calico-cni](https://github.com/chiukapoor/calico-cni)
-5. 🚀 Published release [v3.27.3-rancher1](https://github.com/chiukapoor/calico-cni/releases/tag/v3.27.3-rancher1) in [chiukapoor/calico-cni](https://github.com/chiukapoor/calico-cni)
+1. 💪 Opened PR [#17](https://github.com/rancher/calico-cni/pull/17) in [rancher/calico-cni](https://github.com/rancher/calico-cni)
+2. 💪 Opened PR [#16](https://github.com/rancher/calico-cni/pull/16) in [rancher/calico-cni](https://github.com/rancher/calico-cni)
+3. 💪 Opened PR [#15](https://github.com/rancher/calico-cni/pull/15) in [rancher/calico-cni](https://github.com/rancher/calico-cni)
+4. 🚀 Published release [v3.27.5-rancher1](https://github.com/chiukapoor/calico-cni/releases/tag/v3.27.5-rancher1) in [chiukapoor/calico-cni](https://github.com/chiukapoor/calico-cni)
+5. 🚀 Published release [v3.27.4-rancher1](https://github.com/chiukapoor/calico-cni/releases/tag/v3.27.4-rancher1) in [chiukapoor/calico-cni](https://github.com/chiukapoor/calico-cni)
 <!--END_SECTION:activity-->
 
 ### :book: Blogs posts

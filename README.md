@@ -14,11 +14,11 @@
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#207](https://github.com/rancher/rke-tools/pull/207) in [rancher/rke-tools](https://github.com/rancher/rke-tools)
-2. 💪 Opened PR [#1489](https://github.com/rancher/kontainer-driver-metadata/pull/1489) in [rancher/kontainer-driver-metadata](https://github.com/rancher/kontainer-driver-metadata)
-3. 💪 Opened PR [#1488](https://github.com/rancher/kontainer-driver-metadata/pull/1488) in [rancher/kontainer-driver-metadata](https://github.com/rancher/kontainer-driver-metadata)
-4. 🎉 Merged PR [#1485](https://github.com/rancher/kontainer-driver-metadata/pull/1485) in [rancher/kontainer-driver-metadata](https://github.com/rancher/kontainer-driver-metadata)
-5. 🎉 Merged PR [#1484](https://github.com/rancher/kontainer-driver-metadata/pull/1484) in [rancher/kontainer-driver-metadata](https://github.com/rancher/kontainer-driver-metadata)
+1. 🚀 Published release [v3.27.1-rancher1](https://github.com/chiukapoor/calico-cni/releases/tag/v3.27.1-rancher1) in [chiukapoor/calico-cni](https://github.com/chiukapoor/calico-cni)
+2. 🎉 Merged PR [#207](https://github.com/rancher/rke-tools/pull/207) in [rancher/rke-tools](https://github.com/rancher/rke-tools)
+3. 💪 Opened PR [#1489](https://github.com/rancher/kontainer-driver-metadata/pull/1489) in [rancher/kontainer-driver-metadata](https://github.com/rancher/kontainer-driver-metadata)
+4. 💪 Opened PR [#1488](https://github.com/rancher/kontainer-driver-metadata/pull/1488) in [rancher/kontainer-driver-metadata](https://github.com/rancher/kontainer-driver-metadata)
+5. 🎉 Merged PR [#1485](https://github.com/rancher/kontainer-driver-metadata/pull/1485) in [rancher/kontainer-driver-metadata](https://github.com/rancher/kontainer-driver-metadata)
 <!--END_SECTION:activity-->
 
 ### :book: Blogs posts

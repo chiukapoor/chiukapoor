@@ -14,11 +14,11 @@
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#47051](https://github.com/rancher/rancher/pull/47051) in [rancher/rancher](https://github.com/rancher/rancher)
-2. ❗ Opened issue [#47050](https://github.com/rancher/rancher/issues/47050) in [rancher/rancher](https://github.com/rancher/rancher)
-3. 💪 Opened PR [#1492](https://github.com/rancher/kontainer-driver-metadata/pull/1492) in [rancher/kontainer-driver-metadata](https://github.com/rancher/kontainer-driver-metadata)
-4. 💪 Opened PR [#17](https://github.com/rancher/calico-cni/pull/17) in [rancher/calico-cni](https://github.com/rancher/calico-cni)
-5. 💪 Opened PR [#16](https://github.com/rancher/calico-cni/pull/16) in [rancher/calico-cni](https://github.com/rancher/calico-cni)
+1. 💪 Opened PR [#47052](https://github.com/rancher/rancher/pull/47052) in [rancher/rancher](https://github.com/rancher/rancher)
+2. 💪 Opened PR [#47051](https://github.com/rancher/rancher/pull/47051) in [rancher/rancher](https://github.com/rancher/rancher)
+3. ❗ Opened issue [#47050](https://github.com/rancher/rancher/issues/47050) in [rancher/rancher](https://github.com/rancher/rancher)
+4. 💪 Opened PR [#1492](https://github.com/rancher/kontainer-driver-metadata/pull/1492) in [rancher/kontainer-driver-metadata](https://github.com/rancher/kontainer-driver-metadata)
+5. 💪 Opened PR [#17](https://github.com/rancher/calico-cni/pull/17) in [rancher/calico-cni](https://github.com/rancher/calico-cni)
 <!--END_SECTION:activity-->
 
 ### :book: Blogs posts

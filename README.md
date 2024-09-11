@@ -14,11 +14,11 @@
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#1326](https://github.com/cloud-ark/kubeplus/pull/1326#issuecomment-2344167920) in [cloud-ark/kubeplus](https://github.com/cloud-ark/kubeplus)
-2. ❌ Reopened PR [#47044](https://github.com/rancher/rancher/pull/47044) in [rancher/rancher](https://github.com/rancher/rancher)
-3. ❌ Reopened PR [#47043](https://github.com/rancher/rancher/pull/47043) in [rancher/rancher](https://github.com/rancher/rancher)
-4. 💪 Opened PR [#1353](https://github.com/cloud-ark/kubeplus/pull/1353) in [cloud-ark/kubeplus](https://github.com/cloud-ark/kubeplus)
-5. 💪 Opened PR [#47052](https://github.com/rancher/rancher/pull/47052) in [rancher/rancher](https://github.com/rancher/rancher)
+1. ❌ Closed PR [#47044](https://github.com/rancher/rancher/pull/47044) in [rancher/rancher](https://github.com/rancher/rancher)
+2. ❌ Closed PR [#47043](https://github.com/rancher/rancher/pull/47043) in [rancher/rancher](https://github.com/rancher/rancher)
+3. 💪 Opened PR [#47057](https://github.com/rancher/rancher/pull/47057) in [rancher/rancher](https://github.com/rancher/rancher)
+4. 🗣 Commented on [#1326](https://github.com/cloud-ark/kubeplus/pull/1326#issuecomment-2344167920) in [cloud-ark/kubeplus](https://github.com/cloud-ark/kubeplus)
+5. ❌ Reopened PR [#47044](https://github.com/rancher/rancher/pull/47044) in [rancher/rancher](https://github.com/rancher/rancher)
 <!--END_SECTION:activity-->
 
 ### :book: Blogs posts

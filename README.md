@@ -14,11 +14,11 @@
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#1353](https://github.com/cloud-ark/kubeplus/pull/1353) in [cloud-ark/kubeplus](https://github.com/cloud-ark/kubeplus)
-2. 💪 Opened PR [#47052](https://github.com/rancher/rancher/pull/47052) in [rancher/rancher](https://github.com/rancher/rancher)
-3. 💪 Opened PR [#47051](https://github.com/rancher/rancher/pull/47051) in [rancher/rancher](https://github.com/rancher/rancher)
-4. ❗ Opened issue [#47050](https://github.com/rancher/rancher/issues/47050) in [rancher/rancher](https://github.com/rancher/rancher)
-5. 💪 Opened PR [#1492](https://github.com/rancher/kontainer-driver-metadata/pull/1492) in [rancher/kontainer-driver-metadata](https://github.com/rancher/kontainer-driver-metadata)
+1. ❌ Reopened PR [#47044](https://github.com/rancher/rancher/pull/47044) in [rancher/rancher](https://github.com/rancher/rancher)
+2. ❌ Reopened PR [#47043](https://github.com/rancher/rancher/pull/47043) in [rancher/rancher](https://github.com/rancher/rancher)
+3. 💪 Opened PR [#1353](https://github.com/cloud-ark/kubeplus/pull/1353) in [cloud-ark/kubeplus](https://github.com/cloud-ark/kubeplus)
+4. 💪 Opened PR [#47052](https://github.com/rancher/rancher/pull/47052) in [rancher/rancher](https://github.com/rancher/rancher)
+5. 💪 Opened PR [#47051](https://github.com/rancher/rancher/pull/47051) in [rancher/rancher](https://github.com/rancher/rancher)
 <!--END_SECTION:activity-->
 
 ### :book: Blogs posts

@@ -14,11 +14,11 @@
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#47051](https://github.com/rancher/rancher/pull/47051#issuecomment-2345723505) in [rancher/rancher](https://github.com/rancher/rancher)
-2. 💪 Opened PR [#47077](https://github.com/rancher/rancher/pull/47077) in [rancher/rancher](https://github.com/rancher/rancher)
-3. ❗ Opened issue [#47076](https://github.com/rancher/rancher/issues/47076) in [rancher/rancher](https://github.com/rancher/rancher)
-4. 🎉 Merged PR [#47058](https://github.com/rancher/rancher/pull/47058) in [rancher/rancher](https://github.com/rancher/rancher)
-5. ❌ Closed PR [#3674](https://github.com/rancher/rke/pull/3674) in [rancher/rke](https://github.com/rancher/rke)
+1. 🔒 Closed issue [#1](https://github.com/chiukapoor/SysGuardian/issues/1) in [chiukapoor/SysGuardian](https://github.com/chiukapoor/SysGuardian)
+2. 🎉 Merged PR [#2](https://github.com/chiukapoor/SysGuardian/pull/2) in [chiukapoor/SysGuardian](https://github.com/chiukapoor/SysGuardian)
+3. 💪 Opened PR [#2](https://github.com/chiukapoor/SysGuardian/pull/2) in [chiukapoor/SysGuardian](https://github.com/chiukapoor/SysGuardian)
+4. ❗ Opened issue [#1](https://github.com/chiukapoor/SysGuardian/issues/1) in [chiukapoor/SysGuardian](https://github.com/chiukapoor/SysGuardian)
+5. 🗣 Commented on [#47051](https://github.com/rancher/rancher/pull/47051#issuecomment-2345723505) in [rancher/rancher](https://github.com/rancher/rancher)
 <!--END_SECTION:activity-->
 
 ### :book: Blogs posts

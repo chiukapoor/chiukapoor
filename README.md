@@ -14,11 +14,11 @@
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#47058](https://github.com/rancher/rancher/pull/47058) in [rancher/rancher](https://github.com/rancher/rancher)
-2. ❌ Closed PR [#3674](https://github.com/rancher/rke/pull/3674) in [rancher/rke](https://github.com/rancher/rke)
-3. ❌ Closed PR [#3673](https://github.com/rancher/rke/pull/3673) in [rancher/rke](https://github.com/rancher/rke)
-4. 💪 Opened PR [#47058](https://github.com/rancher/rancher/pull/47058) in [rancher/rancher](https://github.com/rancher/rancher)
-5. ❌ Closed PR [#47044](https://github.com/rancher/rancher/pull/47044) in [rancher/rancher](https://github.com/rancher/rancher)
+1. 🗣 Commented on [#47051](https://github.com/rancher/rancher/pull/47051#issuecomment-2345723505) in [rancher/rancher](https://github.com/rancher/rancher)
+2. 💪 Opened PR [#47077](https://github.com/rancher/rancher/pull/47077) in [rancher/rancher](https://github.com/rancher/rancher)
+3. ❗ Opened issue [#47076](https://github.com/rancher/rancher/issues/47076) in [rancher/rancher](https://github.com/rancher/rancher)
+4. 🎉 Merged PR [#47058](https://github.com/rancher/rancher/pull/47058) in [rancher/rancher](https://github.com/rancher/rancher)
+5. ❌ Closed PR [#3674](https://github.com/rancher/rke/pull/3674) in [rancher/rke](https://github.com/rancher/rke)
 <!--END_SECTION:activity-->
 
 ### :book: Blogs posts

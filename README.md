@@ -14,7 +14,7 @@
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🔒 Closed issue [#1](https://github.com/chiukapoor/SysGuardian/issues/1) in [chiukapoor/SysGuardian](https://github.com/chiukapoor/SysGuardian)
+1. 💪 Opened PR [#158](https://github.com/rancher/kubernetes/pull/158) in [rancher/kubernetes](https://github.com/rancher/kubernetes)
 2. 🎉 Merged PR [#2](https://github.com/chiukapoor/SysGuardian/pull/2) in [chiukapoor/SysGuardian](https://github.com/chiukapoor/SysGuardian)
 3. 💪 Opened PR [#2](https://github.com/chiukapoor/SysGuardian/pull/2) in [chiukapoor/SysGuardian](https://github.com/chiukapoor/SysGuardian)
 4. ❗ Opened issue [#1](https://github.com/chiukapoor/SysGuardian/issues/1) in [chiukapoor/SysGuardian](https://github.com/chiukapoor/SysGuardian)

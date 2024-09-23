@@ -14,8 +14,8 @@
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#158](https://github.com/rancher/kubernetes/pull/158) in [rancher/kubernetes](https://github.com/rancher/kubernetes)
-2. 🎉 Merged PR [#2](https://github.com/chiukapoor/SysGuardian/pull/2) in [chiukapoor/SysGuardian](https://github.com/chiukapoor/SysGuardian)
+1. 💪 Opened PR [#217](https://github.com/rancher/install-docker/pull/217) in [rancher/install-docker](https://github.com/rancher/install-docker)
+2. 💪 Opened PR [#158](https://github.com/rancher/kubernetes/pull/158) in [rancher/kubernetes](https://github.com/rancher/kubernetes)
 3. 💪 Opened PR [#2](https://github.com/chiukapoor/SysGuardian/pull/2) in [chiukapoor/SysGuardian](https://github.com/chiukapoor/SysGuardian)
 4. ❗ Opened issue [#1](https://github.com/chiukapoor/SysGuardian/issues/1) in [chiukapoor/SysGuardian](https://github.com/chiukapoor/SysGuardian)
 5. 🗣 Commented on [#47051](https://github.com/rancher/rancher/pull/47051#issuecomment-2345723505) in [rancher/rancher](https://github.com/rancher/rancher)

@@ -14,9 +14,9 @@
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#46777](https://github.com/rancher/rancher/issues/46777#issuecomment-2376051636) in [rancher/rancher](https://github.com/rancher/rancher)
-2. 💪 Opened PR [#139](https://github.com/rancher/ingress-nginx/pull/139) in [rancher/ingress-nginx](https://github.com/rancher/ingress-nginx)
-3. 💪 Opened PR [#2](https://github.com/chiukapoor/SysGuardian/pull/2) in [chiukapoor/SysGuardian](https://github.com/chiukapoor/SysGuardian)
+1. 🔓 Reopened issue [#3690](https://github.com/rancher/rke/issues/3690) in [rancher/rke](https://github.com/rancher/rke)
+2. 🗣 Commented on [#46777](https://github.com/rancher/rancher/issues/46777#issuecomment-2376051636) in [rancher/rancher](https://github.com/rancher/rancher)
+3. 💪 Opened PR [#139](https://github.com/rancher/ingress-nginx/pull/139) in [rancher/ingress-nginx](https://github.com/rancher/ingress-nginx)
 4. ❗ Opened issue [#1](https://github.com/chiukapoor/SysGuardian/issues/1) in [chiukapoor/SysGuardian](https://github.com/chiukapoor/SysGuardian)
 5. 🗣 Commented on [#47051](https://github.com/rancher/rancher/pull/47051#issuecomment-2345723505) in [rancher/rancher](https://github.com/rancher/rancher)
 <!--END_SECTION:activity-->

@@ -14,11 +14,11 @@
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#159](https://github.com/rancher/kubernetes/pull/159) in [rancher/kubernetes](https://github.com/rancher/kubernetes)
-2. 💪 Opened PR [#202](https://github.com/rancher/system-agent/pull/202) in [rancher/system-agent](https://github.com/rancher/system-agent)
-3. 💪 Opened PR [#219](https://github.com/rancher/install-docker/pull/219) in [rancher/install-docker](https://github.com/rancher/install-docker)
-4. 🎉 Merged PR [#3705](https://github.com/rancher/rke/pull/3705) in [rancher/rke](https://github.com/rancher/rke)
-5. 💪 Opened PR [#4554](https://github.com/rancher/charts/pull/4554) in [rancher/charts](https://github.com/rancher/charts)
+1. 💪 Opened PR [#142](https://github.com/rancher/ingress-nginx/pull/142) in [rancher/ingress-nginx](https://github.com/rancher/ingress-nginx)
+2. 💪 Opened PR [#159](https://github.com/rancher/kubernetes/pull/159) in [rancher/kubernetes](https://github.com/rancher/kubernetes)
+3. 💪 Opened PR [#202](https://github.com/rancher/system-agent/pull/202) in [rancher/system-agent](https://github.com/rancher/system-agent)
+4. 💪 Opened PR [#219](https://github.com/rancher/install-docker/pull/219) in [rancher/install-docker](https://github.com/rancher/install-docker)
+5. 🎉 Merged PR [#3705](https://github.com/rancher/rke/pull/3705) in [rancher/rke](https://github.com/rancher/rke)
 <!--END_SECTION:activity-->
 
 ### :book: Blogs posts

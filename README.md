@@ -14,11 +14,11 @@
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. ❗ Opened issue [#47710](https://github.com/rancher/rancher/issues/47710) in [rancher/rancher](https://github.com/rancher/rancher)
-2. ❗ Opened issue [#47709](https://github.com/rancher/rancher/issues/47709) in [rancher/rancher](https://github.com/rancher/rancher)
-3. ❌ Closed PR [#4563](https://github.com/rancher/charts/pull/4563) in [rancher/charts](https://github.com/rancher/charts)
-4. 🎉 Merged PR [#1481](https://github.com/rancher/kontainer-driver-metadata/pull/1481) in [rancher/kontainer-driver-metadata](https://github.com/rancher/kontainer-driver-metadata)
-5. 🎉 Merged PR [#1519](https://github.com/rancher/kontainer-driver-metadata/pull/1519) in [rancher/kontainer-driver-metadata](https://github.com/rancher/kontainer-driver-metadata)
+1. ❌ Closed PR [#1529](https://github.com/rancher/kontainer-driver-metadata/pull/1529) in [rancher/kontainer-driver-metadata](https://github.com/rancher/kontainer-driver-metadata)
+2. ❗ Opened issue [#47710](https://github.com/rancher/rancher/issues/47710) in [rancher/rancher](https://github.com/rancher/rancher)
+3. ❗ Opened issue [#47709](https://github.com/rancher/rancher/issues/47709) in [rancher/rancher](https://github.com/rancher/rancher)
+4. ❌ Closed PR [#4563](https://github.com/rancher/charts/pull/4563) in [rancher/charts](https://github.com/rancher/charts)
+5. 🎉 Merged PR [#1481](https://github.com/rancher/kontainer-driver-metadata/pull/1481) in [rancher/kontainer-driver-metadata](https://github.com/rancher/kontainer-driver-metadata)
 <!--END_SECTION:activity-->
 
 ### :book: Blogs posts

@@ -14,11 +14,11 @@
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. ❌ Closed PR [#1](https://github.com/chiukapoor/rke-tools/pull/1) in [chiukapoor/rke-tools](https://github.com/chiukapoor/rke-tools)
-2. 🎉 Merged PR [#47554](https://github.com/rancher/rancher/pull/47554) in [rancher/rancher](https://github.com/rancher/rancher)
-3. 🎉 Merged PR [#47555](https://github.com/rancher/rancher/pull/47555) in [rancher/rancher](https://github.com/rancher/rancher)
-4. ❌ Closed PR [#3725](https://github.com/rancher/rke/pull/3725) in [rancher/rke](https://github.com/rancher/rke)
-5. 💪 Opened PR [#148](https://github.com/rancher/ingress-nginx/pull/148) in [rancher/ingress-nginx](https://github.com/rancher/ingress-nginx)
+1. 💪 Opened PR [#3730](https://github.com/rancher/rke/pull/3730) in [rancher/rke](https://github.com/rancher/rke)
+2. 💪 Opened PR [#1538](https://github.com/rancher/kontainer-driver-metadata/pull/1538) in [rancher/kontainer-driver-metadata](https://github.com/rancher/kontainer-driver-metadata)
+3. 💪 Opened PR [#1537](https://github.com/rancher/kontainer-driver-metadata/pull/1537) in [rancher/kontainer-driver-metadata](https://github.com/rancher/kontainer-driver-metadata)
+4. 💪 Opened PR [#1536](https://github.com/rancher/kontainer-driver-metadata/pull/1536) in [rancher/kontainer-driver-metadata](https://github.com/rancher/kontainer-driver-metadata)
+5. ❌ Closed PR [#1](https://github.com/chiukapoor/rke-tools/pull/1) in [chiukapoor/rke-tools](https://github.com/chiukapoor/rke-tools)
 <!--END_SECTION:activity-->
 
 ### :book: Blogs posts

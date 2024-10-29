@@ -14,11 +14,11 @@
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. ❌ Closed PR [#3730](https://github.com/rancher/rke/pull/3730) in [rancher/rke](https://github.com/rancher/rke)
-2. 🎉 Merged PR [#1536](https://github.com/rancher/kontainer-driver-metadata/pull/1536) in [rancher/kontainer-driver-metadata](https://github.com/rancher/kontainer-driver-metadata)
-3. 🎉 Merged PR [#1538](https://github.com/rancher/kontainer-driver-metadata/pull/1538) in [rancher/kontainer-driver-metadata](https://github.com/rancher/kontainer-driver-metadata)
-4. 🎉 Merged PR [#1537](https://github.com/rancher/kontainer-driver-metadata/pull/1537) in [rancher/kontainer-driver-metadata](https://github.com/rancher/kontainer-driver-metadata)
-5. 💪 Opened PR [#3730](https://github.com/rancher/rke/pull/3730) in [rancher/rke](https://github.com/rancher/rke)
+1. 🎉 Merged PR [#3735](https://github.com/rancher/rke/pull/3735) in [rancher/rke](https://github.com/rancher/rke)
+2. 🎉 Merged PR [#3733](https://github.com/rancher/rke/pull/3733) in [rancher/rke](https://github.com/rancher/rke)
+3. ❌ Closed PR [#3730](https://github.com/rancher/rke/pull/3730) in [rancher/rke](https://github.com/rancher/rke)
+4. 🎉 Merged PR [#1536](https://github.com/rancher/kontainer-driver-metadata/pull/1536) in [rancher/kontainer-driver-metadata](https://github.com/rancher/kontainer-driver-metadata)
+5. 🎉 Merged PR [#1538](https://github.com/rancher/kontainer-driver-metadata/pull/1538) in [rancher/kontainer-driver-metadata](https://github.com/rancher/kontainer-driver-metadata)
 <!--END_SECTION:activity-->
 
 ### :book: Blogs posts

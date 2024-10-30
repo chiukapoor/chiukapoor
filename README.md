@@ -14,11 +14,11 @@
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#47774](https://github.com/rancher/rancher/pull/47774) in [rancher/rancher](https://github.com/rancher/rancher)
-2. 🎉 Merged PR [#47773](https://github.com/rancher/rancher/pull/47773) in [rancher/rancher](https://github.com/rancher/rancher)
-3. 🎉 Merged PR [#3735](https://github.com/rancher/rke/pull/3735) in [rancher/rke](https://github.com/rancher/rke)
-4. 🎉 Merged PR [#3733](https://github.com/rancher/rke/pull/3733) in [rancher/rke](https://github.com/rancher/rke)
-5. ❌ Closed PR [#3730](https://github.com/rancher/rke/pull/3730) in [rancher/rke](https://github.com/rancher/rke)
+1. ❗ Opened issue [#47790](https://github.com/rancher/rancher/issues/47790) in [rancher/rancher](https://github.com/rancher/rancher)
+2. ❗ Opened issue [#47791](https://github.com/rancher/rancher/issues/47791) in [rancher/rancher](https://github.com/rancher/rancher)
+3. 🎉 Merged PR [#47774](https://github.com/rancher/rancher/pull/47774) in [rancher/rancher](https://github.com/rancher/rancher)
+4. 🎉 Merged PR [#47773](https://github.com/rancher/rancher/pull/47773) in [rancher/rancher](https://github.com/rancher/rancher)
+5. 🎉 Merged PR [#3735](https://github.com/rancher/rke/pull/3735) in [rancher/rke](https://github.com/rancher/rke)
 <!--END_SECTION:activity-->
 
 ### :book: Blogs posts

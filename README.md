@@ -14,11 +14,11 @@
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#1360](https://github.com/cloud-ark/kubeplus/pull/1360) in [cloud-ark/kubeplus](https://github.com/cloud-ark/kubeplus)
-2. ❗ Opened issue [#47790](https://github.com/rancher/rancher/issues/47790) in [rancher/rancher](https://github.com/rancher/rancher)
-3. ❗ Opened issue [#47791](https://github.com/rancher/rancher/issues/47791) in [rancher/rancher](https://github.com/rancher/rancher)
-4. 🎉 Merged PR [#47774](https://github.com/rancher/rancher/pull/47774) in [rancher/rancher](https://github.com/rancher/rancher)
-5. 🎉 Merged PR [#47773](https://github.com/rancher/rancher/pull/47773) in [rancher/rancher](https://github.com/rancher/rancher)
+1. 💪 Opened PR [#47978](https://github.com/rancher/rancher/pull/47978) in [rancher/rancher](https://github.com/rancher/rancher)
+2. 💪 Opened PR [#1360](https://github.com/cloud-ark/kubeplus/pull/1360) in [cloud-ark/kubeplus](https://github.com/cloud-ark/kubeplus)
+3. ❗ Opened issue [#47790](https://github.com/rancher/rancher/issues/47790) in [rancher/rancher](https://github.com/rancher/rancher)
+4. ❗ Opened issue [#47791](https://github.com/rancher/rancher/issues/47791) in [rancher/rancher](https://github.com/rancher/rancher)
+5. 🎉 Merged PR [#47774](https://github.com/rancher/rancher/pull/47774) in [rancher/rancher](https://github.com/rancher/rancher)
 <!--END_SECTION:activity-->
 
 ### :book: Blogs posts

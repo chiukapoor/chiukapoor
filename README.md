@@ -14,11 +14,11 @@
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#221](https://github.com/rancher/install-docker/pull/221) in [rancher/install-docker](https://github.com/rancher/install-docker)
-2. 💪 Opened PR [#220](https://github.com/rancher/install-docker/pull/220) in [rancher/install-docker](https://github.com/rancher/install-docker)
-3. 💪 Opened PR [#217](https://github.com/rancher/rke-tools/pull/217) in [rancher/rke-tools](https://github.com/rancher/rke-tools)
-4. 💪 Opened PR [#166](https://github.com/rancher/kubernetes/pull/166) in [rancher/kubernetes](https://github.com/rancher/kubernetes)
-5. 💪 Opened PR [#3743](https://github.com/rancher/rke/pull/3743) in [rancher/rke](https://github.com/rancher/rke)
+1. ❌ Closed PR [#147](https://github.com/rancher/install-docker/pull/147) in [rancher/install-docker](https://github.com/rancher/install-docker)
+2. ❌ Closed PR [#149](https://github.com/rancher/install-docker/pull/149) in [rancher/install-docker](https://github.com/rancher/install-docker)
+3. ❌ Closed PR [#191](https://github.com/rancher/install-docker/pull/191) in [rancher/install-docker](https://github.com/rancher/install-docker)
+4. ❌ Closed PR [#200](https://github.com/rancher/install-docker/pull/200) in [rancher/install-docker](https://github.com/rancher/install-docker)
+5. 💪 Opened PR [#221](https://github.com/rancher/install-docker/pull/221) in [rancher/install-docker](https://github.com/rancher/install-docker)
 <!--END_SECTION:activity-->
 
 ### :book: Blogs posts

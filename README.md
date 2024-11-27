@@ -14,11 +14,11 @@
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#47640](https://github.com/rancher/rancher/issues/47640#issuecomment-2500662566) in [rancher/rancher](https://github.com/rancher/rancher)
-2. 🔒 Closed issue [#47640](https://github.com/rancher/rancher/issues/47640) in [rancher/rancher](https://github.com/rancher/rancher)
-3. ❌ Closed PR [#147](https://github.com/rancher/install-docker/pull/147) in [rancher/install-docker](https://github.com/rancher/install-docker)
-4. ❌ Closed PR [#149](https://github.com/rancher/install-docker/pull/149) in [rancher/install-docker](https://github.com/rancher/install-docker)
-5. ❌ Closed PR [#191](https://github.com/rancher/install-docker/pull/191) in [rancher/install-docker](https://github.com/rancher/install-docker)
+1. 🎉 Merged PR [#217](https://github.com/rancher/rke-tools/pull/217) in [rancher/rke-tools](https://github.com/rancher/rke-tools)
+2. 🗣 Commented on [#47640](https://github.com/rancher/rancher/issues/47640#issuecomment-2500662566) in [rancher/rancher](https://github.com/rancher/rancher)
+3. 🔒 Closed issue [#47640](https://github.com/rancher/rancher/issues/47640) in [rancher/rancher](https://github.com/rancher/rancher)
+4. ❌ Closed PR [#147](https://github.com/rancher/install-docker/pull/147) in [rancher/install-docker](https://github.com/rancher/install-docker)
+5. ❌ Closed PR [#149](https://github.com/rancher/install-docker/pull/149) in [rancher/install-docker](https://github.com/rancher/install-docker)
 <!--END_SECTION:activity-->
 
 ### :book: Blogs posts

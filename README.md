@@ -14,8 +14,8 @@
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#154](https://github.com/rancher/ingress-nginx/pull/154) in [rancher/ingress-nginx](https://github.com/rancher/ingress-nginx)
-2. 💪 Opened PR [#168](https://github.com/rancher/kubernetes/pull/168) in [rancher/kubernetes](https://github.com/rancher/kubernetes)
+1. 💪 Opened PR [#48983](https://github.com/rancher/rancher/pull/48983) in [rancher/rancher](https://github.com/rancher/rancher)
+2. 💪 Opened PR [#154](https://github.com/rancher/ingress-nginx/pull/154) in [rancher/ingress-nginx](https://github.com/rancher/ingress-nginx)
 3. 🗣 Commented on [#47538](https://github.com/rancher/rancher/pull/47538#issuecomment-2556843794) in [rancher/rancher](https://github.com/rancher/rancher)
 4. ❌ Closed PR [#47538](https://github.com/rancher/rancher/pull/47538) in [rancher/rancher](https://github.com/rancher/rancher)
 5. 🎉 Merged PR [#3753](https://github.com/rancher/rke/pull/3753) in [rancher/rke](https://github.com/rancher/rke)

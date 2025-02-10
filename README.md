@@ -14,10 +14,10 @@
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#535](https://github.com/rancher/wrangler/pull/535) in [rancher/wrangler](https://github.com/rancher/wrangler)
-2. 💪 Opened PR [#144](https://github.com/rancher/lasso/pull/144) in [rancher/lasso](https://github.com/rancher/lasso)
-3. 💪 Opened PR [#48983](https://github.com/rancher/rancher/pull/48983) in [rancher/rancher](https://github.com/rancher/rancher)
-4. ❌ Closed PR [#47538](https://github.com/rancher/rancher/pull/47538) in [rancher/rancher](https://github.com/rancher/rancher)
+1. 💪 Opened PR [#601](https://github.com/rancher/norman/pull/601) in [rancher/norman](https://github.com/rancher/norman)
+2. 💪 Opened PR [#535](https://github.com/rancher/wrangler/pull/535) in [rancher/wrangler](https://github.com/rancher/wrangler)
+3. 💪 Opened PR [#144](https://github.com/rancher/lasso/pull/144) in [rancher/lasso](https://github.com/rancher/lasso)
+4. 💪 Opened PR [#48983](https://github.com/rancher/rancher/pull/48983) in [rancher/rancher](https://github.com/rancher/rancher)
 5. 🎉 Merged PR [#3753](https://github.com/rancher/rke/pull/3753) in [rancher/rke](https://github.com/rancher/rke)
 <!--END_SECTION:activity-->
 

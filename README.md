@@ -14,11 +14,11 @@
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#158](https://github.com/rancher/dynamiclistener/pull/158) in [rancher/dynamiclistener](https://github.com/rancher/dynamiclistener)
-2. 💪 Opened PR [#136](https://github.com/rancher/apiserver/pull/136) in [rancher/apiserver](https://github.com/rancher/apiserver)
-3. 💪 Opened PR [#601](https://github.com/rancher/norman/pull/601) in [rancher/norman](https://github.com/rancher/norman)
-4. 💪 Opened PR [#535](https://github.com/rancher/wrangler/pull/535) in [rancher/wrangler](https://github.com/rancher/wrangler)
-5. 💪 Opened PR [#144](https://github.com/rancher/lasso/pull/144) in [rancher/lasso](https://github.com/rancher/lasso)
+1. 💪 Opened PR [#832](https://github.com/rancher/image-mirror/pull/832) in [rancher/image-mirror](https://github.com/rancher/image-mirror)
+2. 💪 Opened PR [#158](https://github.com/rancher/dynamiclistener/pull/158) in [rancher/dynamiclistener](https://github.com/rancher/dynamiclistener)
+3. 💪 Opened PR [#136](https://github.com/rancher/apiserver/pull/136) in [rancher/apiserver](https://github.com/rancher/apiserver)
+4. 💪 Opened PR [#601](https://github.com/rancher/norman/pull/601) in [rancher/norman](https://github.com/rancher/norman)
+5. 💪 Opened PR [#535](https://github.com/rancher/wrangler/pull/535) in [rancher/wrangler](https://github.com/rancher/wrangler)
 <!--END_SECTION:activity-->
 
 ### :book: Blogs posts

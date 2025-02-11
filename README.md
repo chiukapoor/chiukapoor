@@ -14,11 +14,11 @@
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#396](https://github.com/rancher/hyperkube/pull/396) in [rancher/hyperkube](https://github.com/rancher/hyperkube)
-2. 🗣 Commented on [#19](https://github.com/rancher/provisioning/pull/19#issuecomment-2650418402) in [rancher/provisioning](https://github.com/rancher/provisioning)
-3. 💪 Opened PR [#19](https://github.com/rancher/provisioning/pull/19) in [rancher/provisioning](https://github.com/rancher/provisioning)
-4. 💪 Opened PR [#832](https://github.com/rancher/image-mirror/pull/832) in [rancher/image-mirror](https://github.com/rancher/image-mirror)
-5. 💪 Opened PR [#158](https://github.com/rancher/dynamiclistener/pull/158) in [rancher/dynamiclistener](https://github.com/rancher/dynamiclistener)
+1. 💪 Opened PR [#53](https://github.com/rancher/helm/pull/53) in [rancher/helm](https://github.com/rancher/helm)
+2. 💪 Opened PR [#396](https://github.com/rancher/hyperkube/pull/396) in [rancher/hyperkube](https://github.com/rancher/hyperkube)
+3. 🗣 Commented on [#19](https://github.com/rancher/provisioning/pull/19#issuecomment-2650418402) in [rancher/provisioning](https://github.com/rancher/provisioning)
+4. 💪 Opened PR [#19](https://github.com/rancher/provisioning/pull/19) in [rancher/provisioning](https://github.com/rancher/provisioning)
+5. 💪 Opened PR [#832](https://github.com/rancher/image-mirror/pull/832) in [rancher/image-mirror](https://github.com/rancher/image-mirror)
 <!--END_SECTION:activity-->
 
 ### :book: Blogs posts

@@ -14,11 +14,11 @@
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#810](https://github.com/rancher/gke-operator/pull/810) in [rancher/gke-operator](https://github.com/rancher/gke-operator)
-2. 💪 Opened PR [#326](https://github.com/rancher/machine/pull/326) in [rancher/machine](https://github.com/rancher/machine)
-3. 💪 Opened PR [#53](https://github.com/rancher/helm/pull/53) in [rancher/helm](https://github.com/rancher/helm)
-4. 💪 Opened PR [#396](https://github.com/rancher/hyperkube/pull/396) in [rancher/hyperkube](https://github.com/rancher/hyperkube)
-5. 🗣 Commented on [#19](https://github.com/rancher/provisioning/pull/19#issuecomment-2650418402) in [rancher/provisioning](https://github.com/rancher/provisioning)
+1. 🎉 Merged PR [#1120](https://github.com/rancher/eks-operator/pull/1120) in [rancher/eks-operator](https://github.com/rancher/eks-operator)
+2. 🎉 Merged PR [#1119](https://github.com/rancher/eks-operator/pull/1119) in [rancher/eks-operator](https://github.com/rancher/eks-operator)
+3. 🎉 Merged PR [#822](https://github.com/rancher/gke-operator/pull/822) in [rancher/gke-operator](https://github.com/rancher/gke-operator)
+4. 🎉 Merged PR [#824](https://github.com/rancher/gke-operator/pull/824) in [rancher/gke-operator](https://github.com/rancher/gke-operator)
+5. 🎉 Merged PR [#821](https://github.com/rancher/gke-operator/pull/821) in [rancher/gke-operator](https://github.com/rancher/gke-operator)
 <!--END_SECTION:activity-->
 
 ### :book: Blogs posts

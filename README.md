@@ -14,11 +14,11 @@
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#855](https://github.com/rancher/aks-operator/pull/855) in [rancher/aks-operator](https://github.com/rancher/aks-operator)
-2. 🎉 Merged PR [#854](https://github.com/rancher/aks-operator/pull/854) in [rancher/aks-operator](https://github.com/rancher/aks-operator)
-3. 🎉 Merged PR [#843](https://github.com/rancher/aks-operator/pull/843) in [rancher/aks-operator](https://github.com/rancher/aks-operator)
-4. 🎉 Merged PR [#835](https://github.com/rancher/aks-operator/pull/835) in [rancher/aks-operator](https://github.com/rancher/aks-operator)
-5. 🎉 Merged PR [#1156](https://github.com/rancher/eks-operator/pull/1156) in [rancher/eks-operator](https://github.com/rancher/eks-operator)
+1. 🎉 Merged PR [#848](https://github.com/rancher/aks-operator/pull/848) in [rancher/aks-operator](https://github.com/rancher/aks-operator)
+2. 🎉 Merged PR [#846](https://github.com/rancher/aks-operator/pull/846) in [rancher/aks-operator](https://github.com/rancher/aks-operator)
+3. 🎉 Merged PR [#847](https://github.com/rancher/aks-operator/pull/847) in [rancher/aks-operator](https://github.com/rancher/aks-operator)
+4. 🎉 Merged PR [#842](https://github.com/rancher/aks-operator/pull/842) in [rancher/aks-operator](https://github.com/rancher/aks-operator)
+5. 🎉 Merged PR [#855](https://github.com/rancher/aks-operator/pull/855) in [rancher/aks-operator](https://github.com/rancher/aks-operator)
 <!--END_SECTION:activity-->
 
 ### :book: Blogs posts

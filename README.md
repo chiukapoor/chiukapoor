@@ -14,11 +14,11 @@
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#397](https://github.com/rancher/hyperkube/pull/397) in [rancher/hyperkube](https://github.com/rancher/hyperkube)
-2. 🎉 Merged PR [#19](https://github.com/rancher/provisioning/pull/19) in [rancher/provisioning](https://github.com/rancher/provisioning)
-3. 🎉 Merged PR [#848](https://github.com/rancher/aks-operator/pull/848) in [rancher/aks-operator](https://github.com/rancher/aks-operator)
-4. 🎉 Merged PR [#846](https://github.com/rancher/aks-operator/pull/846) in [rancher/aks-operator](https://github.com/rancher/aks-operator)
-5. 🎉 Merged PR [#847](https://github.com/rancher/aks-operator/pull/847) in [rancher/aks-operator](https://github.com/rancher/aks-operator)
+1. 🎉 Merged PR [#227](https://github.com/rancher/rke-tools/pull/227) in [rancher/rke-tools](https://github.com/rancher/rke-tools)
+2. 🎉 Merged PR [#397](https://github.com/rancher/hyperkube/pull/397) in [rancher/hyperkube](https://github.com/rancher/hyperkube)
+3. 💪 Opened PR [#400](https://github.com/rancher/hyperkube/pull/400) in [rancher/hyperkube](https://github.com/rancher/hyperkube)
+4. 💪 Opened PR [#399](https://github.com/rancher/hyperkube/pull/399) in [rancher/hyperkube](https://github.com/rancher/hyperkube)
+5. 💪 Opened PR [#398](https://github.com/rancher/hyperkube/pull/398) in [rancher/hyperkube](https://github.com/rancher/hyperkube)
 <!--END_SECTION:activity-->
 
 ### :book: Blogs posts

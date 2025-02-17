@@ -14,11 +14,11 @@
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#1150](https://github.com/rancher/eks-operator/pull/1150) in [rancher/eks-operator](https://github.com/rancher/eks-operator)
-2. 🎉 Merged PR [#308](https://github.com/rancher/shell/pull/308) in [rancher/shell](https://github.com/rancher/shell)
-3. 💪 Opened PR [#3789](https://github.com/rancher/rke/pull/3789) in [rancher/rke](https://github.com/rancher/rke)
-4. 💪 Opened PR [#1610](https://github.com/rancher/kontainer-driver-metadata/pull/1610) in [rancher/kontainer-driver-metadata](https://github.com/rancher/kontainer-driver-metadata)
-5. ❗ Opened issue [#49134](https://github.com/rancher/rancher/issues/49134) in [rancher/rancher](https://github.com/rancher/rancher)
+1. 🎉 Merged PR [#1167](https://github.com/rancher/eks-operator/pull/1167) in [rancher/eks-operator](https://github.com/rancher/eks-operator)
+2. 🎉 Merged PR [#1168](https://github.com/rancher/eks-operator/pull/1168) in [rancher/eks-operator](https://github.com/rancher/eks-operator)
+3. 🎉 Merged PR [#1170](https://github.com/rancher/eks-operator/pull/1170) in [rancher/eks-operator](https://github.com/rancher/eks-operator)
+4. 🎉 Merged PR [#1151](https://github.com/rancher/eks-operator/pull/1151) in [rancher/eks-operator](https://github.com/rancher/eks-operator)
+5. 🎉 Merged PR [#1150](https://github.com/rancher/eks-operator/pull/1150) in [rancher/eks-operator](https://github.com/rancher/eks-operator)
 <!--END_SECTION:activity-->
 
 ### :book: Blogs posts

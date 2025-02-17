@@ -14,11 +14,11 @@
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. ❗ Opened issue [#49134](https://github.com/rancher/rancher/issues/49134) in [rancher/rancher](https://github.com/rancher/rancher)
-2. ❗ Opened issue [#49133](https://github.com/rancher/rancher/issues/49133) in [rancher/rancher](https://github.com/rancher/rancher)
-3. 💪 Opened PR [#308](https://github.com/rancher/shell/pull/308) in [rancher/shell](https://github.com/rancher/shell)
-4. 🎉 Merged PR [#400](https://github.com/rancher/hyperkube/pull/400) in [rancher/hyperkube](https://github.com/rancher/hyperkube)
-5. 🎉 Merged PR [#399](https://github.com/rancher/hyperkube/pull/399) in [rancher/hyperkube](https://github.com/rancher/hyperkube)
+1. 💪 Opened PR [#1610](https://github.com/rancher/kontainer-driver-metadata/pull/1610) in [rancher/kontainer-driver-metadata](https://github.com/rancher/kontainer-driver-metadata)
+2. ❗ Opened issue [#49134](https://github.com/rancher/rancher/issues/49134) in [rancher/rancher](https://github.com/rancher/rancher)
+3. ❗ Opened issue [#49133](https://github.com/rancher/rancher/issues/49133) in [rancher/rancher](https://github.com/rancher/rancher)
+4. 💪 Opened PR [#308](https://github.com/rancher/shell/pull/308) in [rancher/shell](https://github.com/rancher/shell)
+5. 🎉 Merged PR [#400](https://github.com/rancher/hyperkube/pull/400) in [rancher/hyperkube](https://github.com/rancher/hyperkube)
 <!--END_SECTION:activity-->
 
 ### :book: Blogs posts

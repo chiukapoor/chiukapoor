@@ -14,11 +14,11 @@
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. ❗ Opened issue [#49167](https://github.com/rancher/rancher/issues/49167) in [rancher/rancher](https://github.com/rancher/rancher)
-2. ❗ Opened issue [#49166](https://github.com/rancher/rancher/issues/49166) in [rancher/rancher](https://github.com/rancher/rancher)
-3. ❗ Opened issue [#49165](https://github.com/rancher/rancher/issues/49165) in [rancher/rancher](https://github.com/rancher/rancher)
-4. 🎉 Merged PR [#1172](https://github.com/rancher/eks-operator/pull/1172) in [rancher/eks-operator](https://github.com/rancher/eks-operator)
-5. 🎉 Merged PR [#862](https://github.com/rancher/aks-operator/pull/862) in [rancher/aks-operator](https://github.com/rancher/aks-operator)
+1. 💪 Opened PR [#20](https://github.com/rancher/provisioning/pull/20) in [rancher/provisioning](https://github.com/rancher/provisioning)
+2. ❗ Opened issue [#49167](https://github.com/rancher/rancher/issues/49167) in [rancher/rancher](https://github.com/rancher/rancher)
+3. ❗ Opened issue [#49166](https://github.com/rancher/rancher/issues/49166) in [rancher/rancher](https://github.com/rancher/rancher)
+4. ❗ Opened issue [#49165](https://github.com/rancher/rancher/issues/49165) in [rancher/rancher](https://github.com/rancher/rancher)
+5. 🎉 Merged PR [#1172](https://github.com/rancher/eks-operator/pull/1172) in [rancher/eks-operator](https://github.com/rancher/eks-operator)
 <!--END_SECTION:activity-->
 
 ### :book: Blogs posts

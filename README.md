@@ -14,11 +14,11 @@
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#20](https://github.com/rancher/provisioning/pull/20) in [rancher/provisioning](https://github.com/rancher/provisioning)
-2. ❗ Opened issue [#49167](https://github.com/rancher/rancher/issues/49167) in [rancher/rancher](https://github.com/rancher/rancher)
-3. ❗ Opened issue [#49166](https://github.com/rancher/rancher/issues/49166) in [rancher/rancher](https://github.com/rancher/rancher)
-4. ❗ Opened issue [#49165](https://github.com/rancher/rancher/issues/49165) in [rancher/rancher](https://github.com/rancher/rancher)
-5. 🎉 Merged PR [#1172](https://github.com/rancher/eks-operator/pull/1172) in [rancher/eks-operator](https://github.com/rancher/eks-operator)
+1. 💪 Opened PR [#1627](https://github.com/rancher/kontainer-driver-metadata/pull/1627) in [rancher/kontainer-driver-metadata](https://github.com/rancher/kontainer-driver-metadata)
+2. 💪 Opened PR [#20](https://github.com/rancher/provisioning/pull/20) in [rancher/provisioning](https://github.com/rancher/provisioning)
+3. ❗ Opened issue [#49167](https://github.com/rancher/rancher/issues/49167) in [rancher/rancher](https://github.com/rancher/rancher)
+4. ❗ Opened issue [#49166](https://github.com/rancher/rancher/issues/49166) in [rancher/rancher](https://github.com/rancher/rancher)
+5. ❗ Opened issue [#49165](https://github.com/rancher/rancher/issues/49165) in [rancher/rancher](https://github.com/rancher/rancher)
 <!--END_SECTION:activity-->
 
 ### :book: Blogs posts

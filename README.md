@@ -14,11 +14,11 @@
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#1288](https://github.com/rancher/eks-operator/pull/1288) in [rancher/eks-operator](https://github.com/rancher/eks-operator)
-2. 💪 Opened PR [#1288](https://github.com/rancher/eks-operator/pull/1288) in [rancher/eks-operator](https://github.com/rancher/eks-operator)
-3. 💪 Opened PR [#1425](https://github.com/cloud-ark/kubeplus/pull/1425) in [cloud-ark/kubeplus](https://github.com/cloud-ark/kubeplus)
-4. 💪 Opened PR [#3810](https://github.com/rancher/rke/pull/3810) in [rancher/rke](https://github.com/rancher/rke)
-5. 💪 Opened PR [#1627](https://github.com/rancher/kontainer-driver-metadata/pull/1627) in [rancher/kontainer-driver-metadata](https://github.com/rancher/kontainer-driver-metadata)
+1. 💪 Opened PR [#5442](https://github.com/rancher/charts/pull/5442) in [rancher/charts](https://github.com/rancher/charts)
+2. 🎉 Merged PR [#1288](https://github.com/rancher/eks-operator/pull/1288) in [rancher/eks-operator](https://github.com/rancher/eks-operator)
+3. 💪 Opened PR [#1288](https://github.com/rancher/eks-operator/pull/1288) in [rancher/eks-operator](https://github.com/rancher/eks-operator)
+4. 💪 Opened PR [#1425](https://github.com/cloud-ark/kubeplus/pull/1425) in [cloud-ark/kubeplus](https://github.com/cloud-ark/kubeplus)
+5. 💪 Opened PR [#3810](https://github.com/rancher/rke/pull/3810) in [rancher/rke](https://github.com/rancher/rke)
 <!--END_SECTION:activity-->
 
 ### :book: Blogs posts

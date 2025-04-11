@@ -14,11 +14,11 @@
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#5442](https://github.com/rancher/charts/pull/5442) in [rancher/charts](https://github.com/rancher/charts)
-2. 🎉 Merged PR [#1288](https://github.com/rancher/eks-operator/pull/1288) in [rancher/eks-operator](https://github.com/rancher/eks-operator)
-3. 💪 Opened PR [#1288](https://github.com/rancher/eks-operator/pull/1288) in [rancher/eks-operator](https://github.com/rancher/eks-operator)
-4. 💪 Opened PR [#1425](https://github.com/cloud-ark/kubeplus/pull/1425) in [cloud-ark/kubeplus](https://github.com/cloud-ark/kubeplus)
-5. 💪 Opened PR [#3810](https://github.com/rancher/rke/pull/3810) in [rancher/rke](https://github.com/rancher/rke)
+1. 💪 Opened PR [#5492](https://github.com/rancher/charts/pull/5492) in [rancher/charts](https://github.com/rancher/charts)
+2. 🎉 Merged PR [#961](https://github.com/rancher/aks-operator/pull/961) in [rancher/aks-operator](https://github.com/rancher/aks-operator)
+3. 💪 Opened PR [#961](https://github.com/rancher/aks-operator/pull/961) in [rancher/aks-operator](https://github.com/rancher/aks-operator)
+4. 💪 Opened PR [#5442](https://github.com/rancher/charts/pull/5442) in [rancher/charts](https://github.com/rancher/charts)
+5. 🎉 Merged PR [#1288](https://github.com/rancher/eks-operator/pull/1288) in [rancher/eks-operator](https://github.com/rancher/eks-operator)
 <!--END_SECTION:activity-->
 
 ### :book: Blogs posts

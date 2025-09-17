@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Chirayu Kapoor</h1>
 <h3 align="center">A passionate Cloud Native Developer and an Open Source Contributor!</h3>
 
-- 🔭 I’m currently working with [InfraCloud](https://www.infracloud.io/)
+- 🔭 Working with [Akuity](https://akuity.io/)
 
-- 🌱 I’m currently learning **Golang, Extending Kubernetes**
+- 🌱 Learning **Golang, Extending Kubernetes**
 
 - 💬 Ask me about **Kubernetes**
 

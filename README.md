@@ -14,8 +14,8 @@
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#5172](https://github.com/akuity/kargo/pull/5172) in [akuity/kargo](https://github.com/akuity/kargo)
-2. 💪 Opened PR [#367](https://github.com/akuity/terraform-provider-akp/pull/367) in [akuity/terraform-provider-akp](https://github.com/akuity/terraform-provider-akp)
+1. 💪 Opened PR [#5172](undefined) in [akuity/kargo](https://github.com/akuity/kargo)
+2. 💪 Opened PR [#95](undefined) in [akuity/awesome-argo](https://github.com/akuity/awesome-argo)
 3. 💪 Opened PR [#5519](https://github.com/rancher/charts/pull/5519) in [rancher/charts](https://github.com/rancher/charts)
 4. 🎉 Merged PR [#5492](https://github.com/rancher/charts/pull/5492) in [rancher/charts](https://github.com/rancher/charts)
 5. 🎉 Merged PR [#962](https://github.com/rancher/aks-operator/pull/962) in [rancher/aks-operator](https://github.com/rancher/aks-operator)

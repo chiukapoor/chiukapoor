@@ -14,7 +14,7 @@
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#5172](undefined) in [akuity/kargo](https://github.com/akuity/kargo)
+1. 💪 Opened PR [#6520](https://github.com/akuity/kargo/pull/6520) in [akuity/kargo](https://github.com/akuity/kargo)
 2. 💪 Opened PR [#95](undefined) in [akuity/awesome-argo](https://github.com/akuity/awesome-argo)
 3. 💪 Opened PR [#5519](https://github.com/rancher/charts/pull/5519) in [rancher/charts](https://github.com/rancher/charts)
 4. 🎉 Merged PR [#5492](https://github.com/rancher/charts/pull/5492) in [rancher/charts](https://github.com/rancher/charts)

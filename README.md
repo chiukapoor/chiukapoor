@@ -14,10 +14,10 @@
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#6520](https://github.com/akuity/kargo/pull/6520) in [akuity/kargo](https://github.com/akuity/kargo)
-2. 💪 Opened PR [#6520](https://github.com/akuity/kargo/pull/6520) in [akuity/kargo](https://github.com/akuity/kargo)
-3. 💪 Opened PR [#5519](https://github.com/rancher/charts/pull/5519) in [rancher/charts](https://github.com/rancher/charts)
-4. 🎉 Merged PR [#5492](https://github.com/rancher/charts/pull/5492) in [rancher/charts](https://github.com/rancher/charts)
+1. 🎉 Merged PR [#6681](https://github.com/akuity/kargo/pull/6681) in [akuity/kargo](https://github.com/akuity/kargo)
+2. 💪 Opened PR [#6681](https://github.com/akuity/kargo/pull/6681) in [akuity/kargo](https://github.com/akuity/kargo)
+3. 🎉 Merged PR [#6520](https://github.com/akuity/kargo/pull/6520) in [akuity/kargo](https://github.com/akuity/kargo)
+4. 💪 Opened PR [#6520](https://github.com/akuity/kargo/pull/6520) in [akuity/kargo](https://github.com/akuity/kargo)
 5. 🎉 Merged PR [#962](https://github.com/rancher/aks-operator/pull/962) in [rancher/aks-operator](https://github.com/rancher/aks-operator)
 <!--END_SECTION:activity-->
 
